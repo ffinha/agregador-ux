@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leituras UI/UX</title>
+<link rel="alternate" type="application/rss+xml" title="Agregador UI/UX" href="feed.xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,600&family=Figtree:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  /* Layout: coluna de leitura única, filtros fixos no topo, itens como linhas de índice */
+  --paper: #f4f5f7;
+  --surface: #ffffff;
+  --ink: #16191f;
+  --muted: #5d6573;
+  --line: #dde1e8;
+  --accent: #2f4fd8;
+  --accent-soft: #e6eafc;
+  --br: #13804f;
+  --forum: #b4541a;
+  --display: "Newsreader", Georgia, "Times New Roman", serif;
+  --body: "Figtree", system-ui, -apple-system, "Segoe UI", sans-serif;
+  color-scheme: light;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --paper: #111318; --surface: #191c23; --ink: #e9ebf0; --muted: #9aa2b1;
+    --line: #2b303b; --accent: #8fa4ff; --accent-soft: #232a45;
+    --br: #4cc28a; --forum: #f0975c; color-scheme: dark;
+  }
+}
+:root[data-theme="dark"] {
+  --paper: #111318; --surface: #191c23; --ink: #e9ebf0; --muted: #9aa2b1;
+  --line: #2b303b; --accent: #8fa4ff; --accent-soft: #232a45;
+  --br: #4cc28a; --forum: #f0975c; color-scheme: dark;
+}
+* { box-sizing: border-box; }
+html, body { margin: 0; }
+body { background: var(--paper); color: var(--ink); font: 16px/1.5 var(--body); }
+a { color: inherit; }
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; border-radius: 4px; }
+
+.wrap { max-width: 760px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 28px 0 8px; display: flex; align-items: baseline; justify-content: space-between; gap: 12px; flex-wrap: wrap; }
+h1 { font: 600 2rem/1.1 var(--display); margin: 0; text-wrap: balance; letter-spacing: -0.01em; }
+.meta { color: var(--muted); font-size: .875rem; }
+
+.bar { position: sticky; top: 0; z-index: 5; background: var(--paper); border-bottom: 1px solid var(--line); padding: 12px 0; }
+.bar .wrap { display: grid; gap: 10px; }
+.row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+.search { flex: 1 1 220px; min-width: 0; padding: 9px 12px; border: 1px solid var(--line); border-radius: 8px; background: var(--surface); color: var(--ink); font: inherit; }
+.chip { border: 1px solid var(--line); background: var(--surface); color: var(--ink); border-radius: 999px; padding: 5px 12px; font: 500 .875rem var(--body); cursor: pointer; white-space: nowrap; }
+.chip:hover { border-color: var(--accent); }
+.chip[aria-pressed="true"] { background: var(--accent); border-color: var(--accent); color: var(--surface); }
+.chip .n { opacity: .7; font-variant-numeric: tabular-nums; margin-left: 4px; }
+select.chip { appearance: none; padding-right: 28px; background-image: linear-gradient(45deg, transparent 50%, var(--muted) 50%), linear-gradient(135deg, var(--muted) 50%, transparent 50%); background-position: right 14px center, right 9px center; background-size: 5px 5px; background-repeat: no-repeat; }
+
+main { padding: 8px 0 64px; }
+.day { font: 600 .75rem var(--body); text-transform: uppercase; letter-spacing: .08em; color: var(--muted); margin: 24px 0 6px; }
+ol.items { list-style: none; margin: 0; padding: 0; display: grid; gap: 8px; }
+.item { background: var(--surface); border: 1px solid var(--line); border-left: 3px solid var(--accent); border-radius: 8px; padding: 14px 16px; display: grid; gap: 6px; }
+.item[data-cat="Brasil"] { border-left-color: var(--br); }
+.item[data-cat="Fóruns e debates"] { border-left-color: var(--forum); }
+.item.read { opacity: .55; }
+.src { display: flex; gap: 8px; align-items: center; flex-wrap: wrap; font-size: .8125rem; color: var(--muted); }
+.src b { color: var(--ink); font-weight: 600; }
+.item h2 { font: 600 1.1875rem/1.3 var(--display); margin: 0; text-wrap: balance; }
+.item h2 a { text-decoration: none; }
+.item h2 a:hover { text-decoration: underline; text-underline-offset: 3px; }
+.item p { margin: 0; color: var(--muted); font-size: .9375rem; max-width: 65ch; overflow-wrap: anywhere; }
+.actions { display: flex; gap: 6px; flex-wrap: wrap; }
+.act { border: 0; background: none; color: var(--muted); font: 500 .8125rem var(--body); padding: 4px 6px; border-radius: 6px; cursor: pointer; }
+.act:hover { background: var(--accent-soft); color: var(--ink); }
+.act[aria-pressed="true"] { color: var(--accent); }
+.empty { text-align: center; color: var(--muted); padding: 48px 16px; }
+@media (prefers-reduced-motion: no-preference) { .item { transition: opacity .2s; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <h1>Leituras UI/UX</h1>
+    <span class="meta" id="status">Carregando o feed…</span>
+  </header>
+</div>
+<div class="bar">
+  <div class="wrap">
+    <div class="row">
+      <input class="search" id="q" type="search" placeholder="Buscar por título ou assunto" aria-label="Buscar">
+      <select class="chip" id="source" aria-label="Fonte"><option value="">Todas as fontes</option></select>
+    </div>
+    <div class="row" id="views" role="group" aria-label="Filtros">
+      <button class="chip" data-cat="" aria-pressed="true">Tudo</button>
+      <button class="chip" data-cat="Brasil" aria-pressed="false">Brasil</button>
+      <button class="chip" data-cat="Publicações internacionais" aria-pressed="false">Internacional</button>
+      <button class="chip" data-cat="Fóruns e debates" aria-pressed="false">Fóruns</button>
+      <button class="chip" id="unread" aria-pressed="false">Não lidos</button>
+      <button class="chip" id="saved" aria-pressed="false">Salvos</button>
+    </div>
+  </div>
+</div>
+<main class="wrap" id="list" aria-live="polite"></main>
+
+<script>
+const store = {
+  get(k, d) { try { return JSON.parse(localStorage.getItem(k)) ?? d; } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem(k, JSON.stringify(v)); } catch (e) {} }
+};
+const readSet = new Set(store.get("ux-read", []));
+const savedMap = new Map(store.get("ux-saved", []));
+const state = { q: "", cat: "", source: "", unread: false, saved: false };
+let items = [];
+
+const strip = html => {
+  const d = new DOMParser().parseFromString(html || "", "text/html");
+  return (d.body.textContent || "").replace(/\s+/g, " ").replace(/Continue reading on .*$/i, "").trim();
+};
+const cut = (s, n) => s.length > n ? s.slice(0, n).replace(/\s+\S*$/, "") + "…" : s;
+const rtf = new Intl.RelativeTimeFormat("pt-BR", { numeric: "auto" });
+function ago(d) {
+  const m = Math.round((d - Date.now()) / 60000);
+  if (Math.abs(m) < 60) return rtf.format(m, "minute");
+  const h = Math.round(m / 60);
+  if (Math.abs(h) < 24) return rtf.format(h, "hour");
+  return rtf.format(Math.round(h / 24), "day");
+}
+const dayLabel = d => {
+  const t = new Date(); t.setHours(0, 0, 0, 0);
+  const x = new Date(d); x.setHours(0, 0, 0, 0);
+  const diff = Math.round((t - x) / 86400000);
+  if (diff === 0) return "Hoje";
+  if (diff === 1) return "Ontem";
+  return x.toLocaleDateString("pt-BR", { weekday: "long", day: "numeric", month: "long" });
+};
+
+function parse(xml) {
+  const doc = new DOMParser().parseFromString(xml, "application/xml");
+  return [...doc.querySelectorAll("item")].map(el => {
+    const t = s => el.querySelector(s)?.textContent || "";
+    const raw = t("title");
+    const m = raw.match(/^\[([^\]]+)\]\s*(.*)$/);
+    return {
+      link: t("link"),
+      source: t("source") || (m ? m[1] : ""),
+      title: m ? m[2] : raw,
+      cat: t("category"),
+      date: new Date(t("pubDate")),
+      text: cut(strip(t("description")), 240)
+    };
+  });
+}
+
+function matches(it) {
+  if (state.cat && it.cat !== state.cat) return false;
+  if (state.source && it.source !== state.source) return false;
+  if (state.unread && readSet.has(it.link)) return false;
+  if (state.saved && !savedMap.has(it.link)) return false;
+  if (state.q) {
+    const q = state.q.toLowerCase();
+    if (!(it.title + " " + it.text + " " + it.source).toLowerCase().includes(q)) return false;
+  }
+  return true;
+}
+
+function render() {
+  const pool = state.saved
+    ? [...savedMap.values()].map(o => ({ ...o, date: new Date(o.date) }))
+        .concat(items.filter(i => !savedMap.has(i.link))).filter(i => savedMap.has(i.link))
+    : items;
+  const list = pool.filter(matches).sort((a, b) => b.date - a.date);
+  const root = document.getElementById("list");
+  root.textContent = "";
+  if (!list.length) {
+    const p = document.createElement("p");
+    p.className = "empty";
+    p.textContent = state.saved ? "Você ainda não salvou nenhum artigo." : "Nada encontrado com esses filtros.";
+    root.append(p);
+    return;
+  }
+  let current = "", ol;
+  for (const it of list) {
+    const label = dayLabel(it.date);
+    if (label !== current) {
+      current = label;
+      const h = document.createElement("h3"); h.className = "day"; h.textContent = label;
+      ol = document.createElement("ol"); ol.className = "items";
+      root.append(h, ol);
+    }
+    const li = document.createElement("li");
+    li.className = "item" + (readSet.has(it.link) ? " read" : "");
+    li.dataset.cat = it.cat;
+    li.innerHTML = `<div class="src"><b></b><span></span></div><h2><a target="_blank" rel="noopener"></a></h2>${it.text ? "<p></p>" : ""}
+      <div class="actions"><button class="act" data-a="read"></button><button class="act" data-a="save"></button></div>`;
+    li.querySelector(".src b").textContent = it.source;
+    li.querySelector(".src span").textContent = "· " + ago(it.date);
+    const a = li.querySelector("h2 a"); a.href = it.link; a.textContent = it.title;
+    if (it.text) li.querySelector("p").textContent = it.text;
+    const rb = li.querySelector('[data-a="read"]'), sb = li.querySelector('[data-a="save"]');
+    const paint = () => {
+      const r = readSet.has(it.link), s = savedMap.has(it.link);
+      li.classList.toggle("read", r);
+      rb.textContent = r ? "Marcar como não lido" : "Marcar como lido";
+      sb.textContent = s ? "Salvo ★" : "Salvar para depois";
+      sb.setAttribute("aria-pressed", s);
+    };
+    const markRead = () => { readSet.add(it.link); store.set("ux-read", [...readSet].slice(-2000)); paint(); };
+    a.addEventListener("click", markRead);
+    a.addEventListener("auxclick", markRead);
+    rb.addEventListener("click", () => {
+      readSet.has(it.link) ? readSet.delete(it.link) : readSet.add(it.link);
+      store.set("ux-read", [...readSet].slice(-2000)); paint();
+    });
+    sb.addEventListener("click", () => {
+      savedMap.has(it.link) ? savedMap.delete(it.link) : savedMap.set(it.link, it);
+      store.set("ux-saved", [...savedMap]); paint();
+    });
+    paint();
+    ol.append(li);
+  }
+}
+
+function fillSources() {
+  const counts = {};
+  items.forEach(i => counts[i.source] = (counts[i.source] || 0) + 1);
+  const sel = document.getElementById("source");
+  Object.keys(counts).sort((a, b) => a.localeCompare(b, "pt-BR")).forEach(s => {
+    const o = document.createElement("option"); o.value = s; o.textContent = `${s} (${counts[s]})`; sel.append(o);
+  });
+}
+
+document.getElementById("q").addEventListener("input", e => { state.q = e.target.value.trim(); render(); });
+document.getElementById("source").addEventListener("change", e => { state.source = e.target.value; render(); });
+document.querySelectorAll("#views [data-cat]").forEach(b => b.addEventListener("click", () => {
+  state.cat = b.dataset.cat;
+  document.querySelectorAll("#views [data-cat]").forEach(x => x.setAttribute("aria-pressed", x === b));
+  render();
+}));
+for (const id of ["unread", "saved"]) {
+  const b = document.getElementById(id);
+  b.addEventListener("click", () => { state[id] = !state[id]; b.setAttribute("aria-pressed", state[id]); render(); });
+}
+
+fetch("feed.xml", { cache: "no-cache" })
+  .then(r => { if (!r.ok) throw new Error(r.status); return r.text(); })
+  .then(xml => {
+    items = parse(xml);
+    const doc = new DOMParser().parseFromString(xml, "application/xml");
+    const built = new Date(doc.querySelector("lastBuildDate")?.textContent || Date.now());
+    document.getElementById("status").textContent = `${items.length} artigos · atualizado ${ago(built)}`;
+    fillSources();
+    render();
+  })
+  .catch(() => {
+    document.getElementById("status").textContent = "";
+    document.getElementById("list").innerHTML = '<p class="empty">Não consegui carregar o feed agora. Recarregue a página em alguns instantes.</p>';
+  });
+</script>
+</body>
+</html>
