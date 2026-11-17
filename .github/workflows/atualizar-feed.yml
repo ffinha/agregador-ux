@@ -1,0 +1,35 @@
+# Coloque este arquivo em .github/workflows/atualizar-feed.yml no seu repositório.
+# Ele roda a cada 2 horas, regera o feed.xml e faz commit se algo mudou.
+# Ative o GitHub Pages (Settings → Pages → branch main, pasta /) e assine:
+#   https://<seu-usuario>.github.io/<seu-repo>/feed.xml
+name: Atualizar feed UI/UX
+
+on:
+  schedule:
+    - cron: "17 */2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install feedparser
+      - run: >
+          python merge_feeds.py
+          --days 14 --max 300
+          --title "Agregador UI/UX"
+          --link "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/feed.xml"
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add feed.xml
+          git diff --cached --quiet || git commit -m "Atualiza feed.xml"
+          git push
