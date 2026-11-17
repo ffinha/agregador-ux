@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head>
+    <title>Agregador UI/UX — Brasil e Internacional</title>
+    <dateCreated>Tue, 17 Nov 2026 18:00:00 GMT</dateCreated>
+  </head>
+  <body>
+    <outline text="Brasil" title="Brasil">
+      <outline type="rss" text="UX Collective 🇧🇷 (artigos)" title="UX Collective 🇧🇷 (artigos)" xmlUrl="https://brasil.uxdesign.cc/feed" htmlUrl="https://brasil.uxdesign.cc"/>
+      <outline type="rss" text="UX Collective 🇧🇷 (newsletter)" title="UX Collective 🇧🇷 (newsletter)" xmlUrl="https://brasiluxdesign.substack.com/feed" htmlUrl="https://brasiluxdesign.substack.com"/>
+      <outline type="rss" text="Design Culture" title="Design Culture" xmlUrl="https://www.designculture.com.br/feed" htmlUrl="https://www.designculture.com.br"/>
+      <outline type="rss" text="Medium — Design de Produto" title="Medium — Design de Produto" xmlUrl="https://medium.com/feed/tag/design-de-produto" htmlUrl="https://medium.com/tag/design-de-produto"/>
+      <outline type="rss" text="Tableless" title="Tableless" xmlUrl="https://tableless.com.br/feed/" htmlUrl="https://tableless.com.br"/>
+      <outline type="rss" text="Choco la Design" title="Choco la Design" xmlUrl="https://chocoladesign.com/feed" htmlUrl="https://chocoladesign.com"/>
+    </outline>
+    <outline text="Publicações internacionais" title="Publicações internacionais">
+      <outline type="rss" text="Nielsen Norman Group" title="Nielsen Norman Group" xmlUrl="https://www.nngroup.com/feed/rss/" htmlUrl="https://www.nngroup.com"/>
+      <outline type="rss" text="UX Collective" title="UX Collective" xmlUrl="https://uxdesign.cc/feed" htmlUrl="https://uxdesign.cc"/>
+      <outline type="rss" text="Smashing Magazine" title="Smashing Magazine" xmlUrl="https://www.smashingmagazine.com/feed/" htmlUrl="https://www.smashingmagazine.com"/>
+      <outline type="rss" text="UX Planet" title="UX Planet" xmlUrl="https://uxplanet.org/feed" htmlUrl="https://uxplanet.org"/>
+      <outline type="rss" text="IxDF — UX Daily" title="IxDF — UX Daily" xmlUrl="https://ixdf.org/rss/site_news.xml" htmlUrl="https://ixdf.org"/>
+      <outline type="rss" text="UX Magazine" title="UX Magazine" xmlUrl="https://uxmag.com/feed" htmlUrl="https://uxmag.com"/>
+      <outline type="rss" text="A List Apart" title="A List Apart" xmlUrl="https://alistapart.com/main/feed/" htmlUrl="https://alistapart.com"/>
+      <outline type="rss" text="Figma Blog" title="Figma Blog" xmlUrl="https://www.figma.com/blog/feed/atom.xml" htmlUrl="https://www.figma.com/blog/"/>
+      <outline type="rss" text="Codrops" title="Codrops" xmlUrl="https://tympanus.net/codrops/feed/" htmlUrl="https://tympanus.net/codrops/"/>
+      <outline type="rss" text="Sidebar (curadoria diária)" title="Sidebar (curadoria diária)" xmlUrl="https://sidebar.io/feed.xml" htmlUrl="https://sidebar.io"/>
+    </outline>
+    <outline text="Fóruns e debates" title="Fóruns e debates">
+      <outline type="rss" text="Reddit r/UXDesign" title="Reddit r/UXDesign" xmlUrl="https://www.reddit.com/r/UXDesign/.rss" htmlUrl="https://www.reddit.com/r/UXDesign/"/>
+      <outline type="rss" text="Reddit r/userexperience" title="Reddit r/userexperience" xmlUrl="https://www.reddit.com/r/userexperience/.rss" htmlUrl="https://www.reddit.com/r/userexperience/"/>
+      <outline type="rss" text="Reddit r/UI_Design" title="Reddit r/UI_Design" xmlUrl="https://www.reddit.com/r/UI_Design/.rss" htmlUrl="https://www.reddit.com/r/UI_Design/"/>
+      <outline type="rss" text="Reddit r/UXResearch" title="Reddit r/UXResearch" xmlUrl="https://www.reddit.com/r/UXResearch/.rss" htmlUrl="https://www.reddit.com/r/UXResearch/"/>
+      <outline type="rss" text="UX Stack Exchange" title="UX Stack Exchange" xmlUrl="https://ux.stackexchange.com/feeds" htmlUrl="https://ux.stackexchange.com"/>
+      <outline type="rss" text="Hacker News — UX (50+ pontos)" title="Hacker News — UX (50+ pontos)" xmlUrl="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50" htmlUrl="https://news.ycombinator.com"/>
+      <outline type="rss" text="Lobsters — tag design" title="Lobsters — tag design" xmlUrl="https://lobste.rs/t/design.rss" htmlUrl="https://lobste.rs/t/design"/>
+    </outline>
+  </body>
+</opml>
