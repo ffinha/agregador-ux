@@ -5,7 +5,7 @@
     <link>https://ffinha.github.io/agregador-ux/feed.xml</link>
     <description>Feed agregado de publicações e fóruns de UI/UX (Brasil e internacional).</description>
     <language>pt-br</language>
-    <lastBuildDate>Wed, 18 Nov 2026 22:00:32 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 03:34:56 GMT</lastBuildDate>
     <item>
       <title>[UX Planet] CLAUDE.md NEW Best Practices</title>
       <link>https://uxplanet.org/claude-md-new-best-practices-c48a1dbd5d5d?source=rss----819cc2aaeee0---4</link>
@@ -896,15 +896,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>User stories caught on because they were quick and simple, but speed often came at the cost of real understanding. A “user” in a story is rarely more than a guess, shaped by the assumptions of whoever wrote it. When you shift to persona stories, you ground your work in real research and real people. That shift gives you more than better requirements: it gives you empathy to see the world through your users’ eyes, confidence that you’re solving the right problems, and alignment that brings your team together. With persona stories, your designs don’t just meet deadlines; they create solutions that matter.In this video, William Hudson, User Experience Strategist and Founder of Syntagm Ltd, cont...</description>
       <category>Publicações internacionais</category>
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
-    </item>
-    <item>
-      <title>[Figma Blog] Workflow lab: Test ideas with code layers and the Figma agent</title>
-      <link>https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/</link>
-      <guid isPermaLink="true">https://www.figma.com/blog/workflow-lab-build-with-code-on-the-canvas-using-the-figma-agent-and-code-layers/</guid>
-      <pubDate>Wed, 04 Nov 2026 22:12:00 GMT</pubDate>
-      <description>Bringing code onto the canvas gives teams a shared space to compare working prototypes side by side, refine a direction, and collaborate on ideas with teammates. This workflow shows how a designer uses code layers and the Figma agent to explore a new feature.</description>
-      <category>Publicações internacionais</category>
-      <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
     </item>
   </channel>
 </rss>
