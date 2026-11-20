@@ -5,7 +5,43 @@
     <link>https://ffinha.github.io/agregador-ux/feed.xml</link>
     <description>Feed agregado de publicações e fóruns de UI/UX (Brasil e internacional).</description>
     <language>pt-br</language>
-    <lastBuildDate>Fri, 20 Nov 2026 12:59:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 21:51:19 GMT</lastBuildDate>
+    <item>
+      <title>[Nielsen Norman Group] Qualitative User-Research Methods: An Overview</title>
+      <link>https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
+      <guid isPermaLink="true">https://www.nngroup.com/articles/qual-research-methods/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:00 GMT</pubDate>
+      <description>Want to know why users struggle or what they need? Start by choosing the right method. Here are 4 of the most popular qualitative UX-research methods.</description>
+      <category>Publicações internacionais</category>
+      <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
+    </item>
+    <item>
+      <title>[Nielsen Norman Group] Can AI Generate Good Designs from Raw User Data?</title>
+      <link>https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
+      <guid isPermaLink="true">https://www.nngroup.com/articles/raw-data-vs-synthesized-data/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
+      <pubDate>Fri, 20 Nov 2026 18:00:00 GMT</pubDate>
+      <description>In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.</description>
+      <category>Publicações internacionais</category>
+      <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
+    </item>
+    <item>
+      <title>[UX Stack Exchange] What UX benefits does coloring music app views with colors from album art bring?</title>
+      <link>https://ux.stackexchange.com/questions/155796/what-ux-benefits-does-coloring-music-app-views-with-colors-from-album-art-bring</link>
+      <guid isPermaLink="true">https://ux.stackexchange.com/questions/155796/what-ux-benefits-does-coloring-music-app-views-with-colors-from-album-art-bring</guid>
+      <pubDate>Fri, 20 Nov 2026 17:27:03 GMT</pubDate>
+      <description>&lt;p&gt;Many music streaming platforms like Spotify and Apple Music, as well as mobile platforms like Android (from versions 8.0 to 10, and in Android 13+ through Material You) and iOS (16 and later through full-screen album art) colorize application views like backgrounds and accent colors with colors extracted from album art. What benefits this can bring to UX usability and aesthetics?&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
+    </item>
+    <item>
+      <title>[UX Planet] This Experimental Feature Is Claude Code’s BIGGEST Recent Improvement</title>
+      <link>https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4</link>
+      <guid isPermaLink="true">https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4</guid>
+      <pubDate>Fri, 20 Nov 2026 13:13:13 GMT</pubDate>
+      <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/2036/1*rmk615YUWPvuVFTeBjbb_w.png" width="2036" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;I&amp;#x2019;ve asked Claude to do the same work twice. The first time it cost 10k tokens, and the second time it took only 6k tokens. What was the&amp;#x2026;&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxplanet.org/this-experimental-feature-is-claude-codes-biggest-recent-improvement-884219219b43?source=rss----819cc2aaeee0---4"&gt;Continue reading on UX Planet »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <category>Publicações internacionais</category>
+      <source url="https://uxplanet.org/feed">UX Planet</source>
+    </item>
     <item>
       <title>[UX Collective 🇧🇷 (artigos)] Sobre o futuro do UX Design, deixar de ser júnior, e Backrooms do Design System</title>
       <link>https://brasil.uxdesign.cc/sobre-o-futuro-do-ux-design-deixar-de-ser-junior-e-backrooms-do-design-system-48279d3d23e3?source=rss----6f71781500a4---4</link>
@@ -678,15 +714,6 @@ especially for a one-person research function?&lt;/li&gt;
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
-      <title>[UX Planet] Why Nobody Is Talking About Claude Fable 5.2</title>
-      <link>https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4</link>
-      <guid isPermaLink="true">https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4</guid>
-      <pubDate>Wed, 11 Nov 2026 20:10:57 GMT</pubDate>
-      <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/1760/1*2HiQi7FQE_NAPerf7A-krw.png" width="1760" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;5 Reasons Why Claude Fable 5.2 Didn&amp;#x2019;t Live Up to the Hype&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxplanet.org/why-nobody-is-talking-about-claude-fable-5-2-9395c67d1722?source=rss----819cc2aaeee0---4"&gt;Continue reading on UX Planet »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
-      <category>Publicações internacionais</category>
-      <source url="https://uxplanet.org/feed">UX Planet</source>
-    </item>
-    <item>
       <title>[UX Stack Exchange] How can I validate LLM-generated thematic analysis of interview transcripts well enough to defend it to stakeholders?</title>
       <link>https://ux.stackexchange.com/questions/155751/how-can-i-validate-llm-generated-thematic-analysis-of-interview-transcripts-well</link>
       <guid isPermaLink="true">https://ux.stackexchange.com/questions/155751/how-can-i-validate-llm-generated-thematic-analysis-of-interview-transcripts-well</guid>
@@ -851,33 +878,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>Ever wondered why some interfaces feel effortless: like they already know what you’re trying to do, while others leave you guessing? The difference often lies in how well a product’s design matches the way users think. When your interface reflects their mental model, every action feels intuitive, and every feature makes sense. But when it doesn’t, confusion creeps in. Master how to shape your conceptual models around users’ understanding (not the system’s inner workings), and you can design products that feel natural, familiar, and trustworthy, no matter how complex they are behind the scenes.Your initial conceptual model is usually just a block diagram showing the main concepts and their re...</description>
       <category>Publicações internacionais</category>
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
-    </item>
-    <item>
-      <title>[Figma Blog] In conversation: Dylan Field and David Friedberg on the human role in creating with AI</title>
-      <link>https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/</link>
-      <guid isPermaLink="true">https://www.figma.com/blog/in-conversation-dylan-field-and-david-friedberg/</guid>
-      <pubDate>Fri, 06 Nov 2026 20:31:00 GMT</pubDate>
-      <description>On why design is the new code, shaping AI’s creative output, and the human vision and judgment behind what we make.</description>
-      <category>Publicações internacionais</category>
-      <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
-    </item>
-    <item>
-      <title>[Nielsen Norman Group] Agent Harness: Definition</title>
-      <link>https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
-      <guid isPermaLink="true">https://www.nngroup.com/articles/agent-harness/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 GMT</pubDate>
-      <description>An agent harness manages a software loop between an AI model and its tools. Its context, permissions, and limits shape what users can do.</description>
-      <category>Publicações internacionais</category>
-      <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
-    </item>
-    <item>
-      <title>[Nielsen Norman Group] Usability 101: Introduction to Usability</title>
-      <link>https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
-      <guid isPermaLink="true">https://www.nngroup.com/articles/usability-101-introduction-to-usability/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
-      <pubDate>Fri, 06 Nov 2026 18:00:00 GMT</pubDate>
-      <description>Usability refers to how easily people can complete tasks with a design. Improve it by watching representative users do realistic tasks, early and repeatedly.</description>
-      <category>Publicações internacionais</category>
-      <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
     </item>
   </channel>
 </rss>
