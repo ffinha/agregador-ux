@@ -5,7 +5,29 @@
     <link>https://ffinha.github.io/agregador-ux/feed.xml</link>
     <description>Feed agregado de publicações e fóruns de UI/UX (Brasil e internacional).</description>
     <language>pt-br</language>
-    <lastBuildDate>Sat, 21 Nov 2026 12:43:32 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 20:38:21 GMT</lastBuildDate>
+    <item>
+      <title>[UX Collective] The judge used to be the user</title>
+      <link>https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4</link>
+      <guid isPermaLink="true">https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4</guid>
+      <pubDate>Sat, 21 Nov 2026 14:34:16 GMT</pubDate>
+      <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/2600/1*oRmV3l91vV_cnIpGqcfEIA.png" width="2800" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;AI collapsed the slow middle of building models. The people who once defined correct went with it.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4"&gt;Continue reading on UX Collective »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
+      <category>Publicações internacionais</category>
+      <source url="https://uxdesign.cc/feed">UX Collective</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
+      <link>https://news.ycombinator.com/item?id=50583761</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583761</guid>
+      <pubDate>Fri, 20 Nov 2026 23:18:32 GMT</pubDate>
+      <description>&lt;p&gt;I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.&lt;p&gt;In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.&lt;p&gt;At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?&lt;p&gt;If you have an alternative path (something completely different from SWE or SWE adjacent) that pays "well", I would like to hear.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50583761"&gt;https://news.ycombinator.com/item?id=50583761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 518&lt;/p&gt;
+&lt;p&gt;# Comments: 583&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
     <item>
       <title>[Figma Blog] Workflow lab: Turning context into a plan with Specs and the Figma agent</title>
       <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
@@ -32,15 +54,6 @@
       <description>In our study, AI-generated designs were better when the AI received synthesized findings and recommendations instead of raw user comments alone.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
-    </item>
-    <item>
-      <title>[UX Stack Exchange] What UX benefits does coloring music app views with colors from album art bring?</title>
-      <link>https://ux.stackexchange.com/questions/155796/what-ux-benefits-does-coloring-music-app-views-with-colors-from-album-art-bring</link>
-      <guid isPermaLink="true">https://ux.stackexchange.com/questions/155796/what-ux-benefits-does-coloring-music-app-views-with-colors-from-album-art-bring</guid>
-      <pubDate>Fri, 20 Nov 2026 17:27:03 GMT</pubDate>
-      <description>&lt;p&gt;Many music streaming platforms like Spotify and Apple Music, as well as mobile platforms like Android (from versions 8.0 to 10, and in Android 13+ through Material You) and iOS (16 and later through full-screen album art) colorize application views like backgrounds and accent colors with colors extracted from album art. What benefits this can bring to UX usability and aesthetics?&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
     </item>
     <item>
       <title>[UX Planet] This Experimental Feature Is Claude Code’s BIGGEST Recent Improvement</title>
@@ -111,6 +124,18 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] GIMP now has UI tests</title>
+      <link>https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</link>
+      <guid isPermaLink="true">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</guid>
+      <pubDate>Fri, 20 Nov 2026 04:00:24 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.gimp.org/news/2026/11/16/gimp-ui-tests/"&gt;https://www.gimp.org/news/2026/11/16/gimp-ui-tests/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50569985"&gt;https://news.ycombinator.com/item?id=50569985&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 161&lt;/p&gt;
+&lt;p&gt;# Comments: 139&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[Nielsen Norman Group] UX Conference March Announced (Mar 1 - Mar 4)</title>
       <link>https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
       <guid isPermaLink="true">https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
@@ -129,6 +154,18 @@
       <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'</title>
+      <link>https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</link>
+      <guid isPermaLink="true">https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</guid>
+      <pubDate>Thu, 19 Nov 2026 22:56:59 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"&gt;https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50567735"&gt;https://news.ycombinator.com/item?id=50567735&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 70&lt;/p&gt;
+&lt;p&gt;# Comments: 21&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[UX Collective] Everyone’s got the tools. Not everyone’s got the tricks.</title>
       <link>https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4</guid>
@@ -138,13 +175,16 @@
       <source url="https://uxdesign.cc/feed">UX Collective</source>
     </item>
     <item>
-      <title>[Design Culture] Como gravar vídeos no celular lendo um roteiro com naturalidade</title>
-      <link>https://designculture.com.br/como-gravar-videos-no-celular-lendo-um-roteiro-com-naturalidade/</link>
-      <guid isPermaLink="true">https://designculture.com.br/como-gravar-videos-no-celular-lendo-um-roteiro-com-naturalidade/</guid>
-      <pubDate>Thu, 19 Nov 2026 19:00:13 GMT</pubDate>
-      <description>A posição da lente, o tamanho do texto e um teste de poucos segundos ajudam a deixar a fala mais próxima de uma conversa. Gravar sozinho costuma significar alternar entre&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
+      <title>[Hacker News — UX (50+ pontos)] How to Make the Ink Used to Write Hamlet and the Declaration of Independence</title>
+      <link>https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/</link>
+      <guid isPermaLink="true">https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/</guid>
+      <pubDate>Thu, 19 Nov 2026 15:13:23 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/"&gt;https://lithub.com/how-to-make-the-ink-used-to-write-hamlet-the-declaration-of-independence-and-beethovens-fifth/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50561170"&gt;https://news.ycombinator.com/item?id=50561170&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 93&lt;/p&gt;
+&lt;p&gt;# Comments: 38&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[UX Planet] How to Use Claude Code Effectively and Save Tokens</title>
@@ -251,13 +291,29 @@
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
     </item>
     <item>
-      <title>[Design Culture] Jogos Vorazes: Amanhecer na Colheita – A beleza da manipulação política enquanto destrói um homem!</title>
-      <link>https://designculture.com.br/jogos-vorazes-amanhecer-na-colheita-a-beleza-da-manipulacao-politica-enquanto-destroi-um-homem/</link>
-      <guid isPermaLink="true">https://designculture.com.br/jogos-vorazes-amanhecer-na-colheita-a-beleza-da-manipulacao-politica-enquanto-destroi-um-homem/</guid>
-      <pubDate>Wed, 18 Nov 2026 14:44:17 GMT</pubDate>
-      <description>Ato 1 – O que é &amp;#8220;Jogos Vorazes: Amanhecer na Colheita&amp;#8221;? Quem diria que estaríamos de volta a Panem tão rápido? Agora, mais uma vez, explorando o passado desse universo,&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
+      <title>[Hacker News — UX (50+ pontos)] Advancing chip design with OpenAI models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:45:47 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/advancing-chip-design-with-our-models/"&gt;https://openai.com/index/advancing-chip-design-with-our-models/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50549493"&gt;https://news.ycombinator.com/item?id=50549493&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 224&lt;/p&gt;
+&lt;p&gt;# Comments: 170&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Show HN: Mastra Factory, the open-source software factory we use to build Mastra</title>
+      <link>https://news.ycombinator.com/item?id=50548660</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548660</guid>
+      <pubDate>Wed, 18 Nov 2026 16:53:42 GMT</pubDate>
+      <description>&lt;p&gt;Hi HN, we're Shane, Sam, and Abhi.&lt;p&gt;Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: &lt;a href="https://news.ycombinator.com/item?id=43103073"&gt;https://news.ycombinator.com/item?id=43103073&lt;/a&gt;. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.&lt;p&gt;Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.&lt;p&gt;At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.&lt;p&gt;There's a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that's @-taggable in Slack.&lt;p&gt;Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).&lt;p&gt;When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI.&lt;p&gt;We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead.&lt;p&gt;You can get started with `npm create factory`.&lt;p&gt;It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think!&lt;p&gt;&lt;a href="https://factory.mastra.ai"&gt;https://factory.mastra.ai&lt;/a&gt;&lt;p&gt;&lt;a href="https://github.com/mastra-ai/template-factory" rel="nofollow"&gt;https://github.com/mastra-ai/template-factory&lt;/a&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50548660"&gt;https://news.ycombinator.com/item?id=50548660&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 156&lt;/p&gt;
+&lt;p&gt;# Comments: 44&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[UX Planet] GPT-6.2 Astra for UI Design</title>
@@ -328,6 +384,18 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Interviewed at a YC startup, found out they used my LinkedIn without permission</title>
+      <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
+      <guid isPermaLink="true">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</guid>
+      <pubDate>Wed, 18 Nov 2026 05:11:30 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"&gt;https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50542135"&gt;https://news.ycombinator.com/item?id=50542135&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 519&lt;/p&gt;
+&lt;p&gt;# Comments: 127&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[UX Collective] What is a researcher’s worth?</title>
       <link>https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/what-is-a-researchers-worth-ea14c95c6d12?source=rss----138adf9c44c---4</guid>
@@ -364,15 +432,6 @@
       <source url="https://lobste.rs/t/design.rss">Lobsters — tag design</source>
     </item>
     <item>
-      <title>[Design Culture] Mudar tudo é fácil. A Design Culture escolheu o difícil</title>
-      <link>https://designculture.com.br/mudar-tudo-e-facil-a-design-culture-escolheu-o-dificil/</link>
-      <guid isPermaLink="true">https://designculture.com.br/mudar-tudo-e-facil-a-design-culture-escolheu-o-dificil/</guid>
-      <pubDate>Tue, 17 Nov 2026 14:37:00 GMT</pubDate>
-      <description>Existe um roteiro conhecido no mercado criativo. A marca chega à maturidade, contrata um escritório de Design ou agência, descarta o símbolo, adota uma sans serif neutra e anuncia a&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
-    </item>
-    <item>
       <title>[UX Planet] Jev can 10x your Claude Code</title>
       <link>https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4</link>
       <guid isPermaLink="true">https://uxplanet.org/jev-can-10x-your-claude-code-ddb5752a5db2?source=rss----819cc2aaeee0---4</guid>
@@ -389,15 +448,6 @@
       <description>Roll up your sleeves! Meet shiny new [AI 2027 Conference](https://smashingconf.com/ai-2027-conference), a friendly online conference on AI-ready design systems, AI + Figma and AI design patterns. What to expect in 2027 and where teams are getting AI right. [Jump to tickets.](https://smashingconf.com/ai-2027-conference/registration)</description>
       <category>Publicações internacionais</category>
       <source url="https://www.smashingmagazine.com/feed/">Smashing Magazine</source>
-    </item>
-    <item>
-      <title>[Design Culture] Câmara dá passo para definir a profissão de designer e reconhecer projetos como obra intelectual</title>
-      <link>https://designculture.com.br/camara-da-passo-para-definir-a-profissao-de-designer-e-reconhecer-projetos-como-obra-intelectual/</link>
-      <guid isPermaLink="true">https://designculture.com.br/camara-da-passo-para-definir-a-profissao-de-designer-e-reconhecer-projetos-como-obra-intelectual/</guid>
-      <pubDate>Tue, 17 Nov 2026 10:23:39 GMT</pubDate>
-      <description>Comissão de Trabalho aprova substitutivo ao PL 3055/2019. Texto retira o registro profissional, mantém a proteção autoral e chega à CCJC em meio ao debate sobre IA generativa A discussão&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
     </item>
     <item>
       <title>[Sidebar (curadoria diária)] Band-aid accessibility</title>
@@ -478,6 +528,18 @@
       <source url="https://www.smashingmagazine.com/feed/">Smashing Magazine</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Windows 11 is collecting data on which coding agents and developer tools you use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid isPermaLink="true">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"&gt;https://xusheng.dev/posts/windows-coding-agent-telemetry/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50524736"&gt;https://news.ycombinator.com/item?id=50524736&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 737&lt;/p&gt;
+&lt;p&gt;# Comments: 624&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[UX Collective] Why bother paying for software anymore?</title>
       <link>https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/why-bother-paying-for-software-anymore-e1f76093f772?source=rss----138adf9c44c---4</guid>
@@ -505,6 +567,30 @@
       <source url="https://uxplanet.org/feed">UX Planet</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] FBI says Artex AI open-source hacking tool used to breach networks</title>
+      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
+      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:12:21 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"&gt;https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50520796"&gt;https://news.ycombinator.com/item?id=50520796&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 50&lt;/p&gt;
+&lt;p&gt;# Comments: 15&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Just 400 US Data Centers Use More Electricity Than Michigan</title>
+      <link>https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/</link>
+      <guid isPermaLink="true">https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/</guid>
+      <pubDate>Mon, 16 Nov 2026 18:04:55 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"&gt;https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50520697"&gt;https://news.ycombinator.com/item?id=50520697&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 95&lt;/p&gt;
+&lt;p&gt;# Comments: 105&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[Figma Blog] How 1Password uses Figma Make to design for trust and certainty</title>
       <link>https://www.figma.com/blog/1password-figma-make/</link>
       <guid isPermaLink="true">https://www.figma.com/blog/1password-figma-make/</guid>
@@ -523,29 +609,11 @@
       <source url="https://uxplanet.org/feed">UX Planet</source>
     </item>
     <item>
-      <title>[Design Culture] AMG leva formato das mostras brasileiras de arquitetura para Miami durante a semana da Art Week no Design District</title>
-      <link>https://designculture.com.br/amg-leva-formato-das-mostras-brasileiras-de-arquitetura-para-miami-durante-a-semana-da-art-week-no-design-district/</link>
-      <guid isPermaLink="true">https://designculture.com.br/amg-leva-formato-das-mostras-brasileiras-de-arquitetura-para-miami-durante-a-semana-da-art-week-no-design-district/</guid>
-      <pubDate>Mon, 16 Nov 2026 14:08:49 GMT</pubDate>
-      <description>A Design Circuit reúne showrooms, marcas e profissionais em uma iniciativa voltada aos segmentos de arquitetura, interiores e design de alto padrão A semana de Arte de Miami, um dos&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
-    </item>
-    <item>
       <title>[UX Collective] Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens</title>
       <link>https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb?source=rss----138adf9c44c---4</guid>
       <pubDate>Mon, 16 Nov 2026 12:17:08 GMT</pubDate>
       <description>&lt;h4&gt;Weekly curated resources for designers — thinkers and makers.&lt;/h4&gt;&lt;figure&gt;&lt;a href="https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*A34o9Fc4cFx_KBhU.png" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;“When Ted Chiang wrote in The New Yorker that AI isn’t going to make art, I felt vindicated. I forwarded it. To people who had not asked (sorry).&lt;/p&gt;&lt;p&gt;His point was that art is the sum of thousands of small choices, and a machine that makes most of them for you has removed the art. I summarized this at dinners as “it’s a vending machine with ambitions,” which got an eye roll and some confused looks.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://uxdesign.cc/every-new-medium-gets-called-cheating-b990d7d53c0e"&gt;&lt;strong&gt;Every new medium gets called cheating&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;br /&gt;&lt;/strong&gt;By &lt;a href="https://medium.com/u/73e58dd22343"&gt;Nicole Alexandra Michaelis&lt;/a&gt;&lt;/p&gt;&lt;h3&gt;Editor picks&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://uxdesign.cc/schr%C3%B6dingers-huang-d1da36bff88c?sk=d546d6d79752453427b459c4db1ea8e5"&gt;&lt;strong&gt;Nvidia could not be everything to everybody&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;br /&gt;Schrödinger’s Huang.&lt;br /&gt;By &lt;a href="https://medium.com/u/b5d031ec16c5"&gt;Neel Dozome&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uxdesign.cc/every-click-has-a-price-now-who-designs-how-that-feels-e3f00b6cabb8"&gt;&lt;strong&gt;Every click has a price now&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;br /&gt;Who designs how that “feels”?&lt;br /&gt;By &lt;a href="https://medium.com/u/2bea45f96a95"&gt;Arin Bhowmick&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?sk=87dfe0de2ec72816afa6a1605e1551d9"&gt;&lt;strong&gt;Before you ship your Wrapped this year&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;br /&gt;What changed in 2026, and the step almost nobody takes.&lt;br /&gt;By &lt;a href="https://medium.com/u/619d88e4a27"&gt;Wira Indra Kusuma&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;em&gt;The UX Collective is an independent design publication that elevates unheard design voices and helps designers think more critically about their work.&lt;/em&gt;&lt;/p&gt;&lt;figure&gt;&lt;a href="https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*Ze95Bs3WEAnrYZkn.png" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7"&gt;&lt;strong&gt;Why are we cloning Photoshop?&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;/p&gt;&lt;h3&gt;Make me think&lt;/h3&gt;&lt;blockquote&gt;&lt;a href="https://shawnsmucker.substack.com/p/please-use-ai?ref=sidebar"&gt;&lt;strong&gt;&lt;em&gt;Please use AI&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt; →&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;&lt;br /&gt;“Be sure to use AI when making&lt;br /&gt;your next, I don’t know, meal plan,&lt;br /&gt;for example. Definitely do not call&lt;br /&gt;your friend who loves to cook and ask her&lt;br /&gt;for her favorite recipes or tips or ways&lt;br /&gt;to save time making meals,&lt;br /&gt;because you will end&lt;br /&gt;up talking for longer than you had hoped,&lt;br /&gt;hearing, perhaps, about her father’s cancer&lt;br /&gt;diagnosis or how lonely she’s been or even&lt;br /&gt;what she’s planted in her spring&lt;br /&gt;garden and then lost with the early frost.”&lt;/em&gt;&lt;/blockquote&gt;&lt;h3&gt;Cool finds&lt;/h3&gt;&lt;figure&gt;&lt;a href="https://blossom-carousel.com/?ref=sidebar"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*P73Z2T2xIoaFsTYe.png" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://blossom-carousel.com/?ref=sidebar"&gt;&lt;strong&gt;Blossom carousel&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;/p&gt;&lt;figure&gt;&lt;a href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?ref=sidebar"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*ysflvraDYwiwnpH-.png" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://zwischenzugs.com/2026/11/03/a-family-tree-of-software-job-titles/?ref=sidebar"&gt;&lt;strong&gt;A family tree of software job titles&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;/p&gt;&lt;figure&gt;&lt;a href="https://www.youtube.com/watch?v=sz_vI8V_k1E"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*oYJ-29_zk09oalp_.png" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://www.youtube.com/watch?v=sz_vI8V_k1E"&gt;&lt;strong&gt;I made a film in Excel&lt;/strong&gt;&lt;/a&gt; →&lt;/p&gt;&lt;h3&gt;Careers &amp;amp; more&lt;/h3&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://medium.com/design-bootcamp/is-anyone-hiring-designers-anymore-f1af200cd382"&gt;&lt;strong&gt;Where the hell did the design jobs go?&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;br /&gt;Is anyone hiring designers anymore?&lt;br /&gt;By &lt;a href="https://medium.com/u/93dea61ce30"&gt;Iris Atalay&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uxdesign.cc/infinite-tokens-the-new-country-club-flex-0e5e523756c3?sk=a5dc427408560a00d52aa1a233a4cc99"&gt;&lt;strong&gt;Infinite tokens&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt; →&lt;/strong&gt;&lt;br /&gt;The new country club flex.&lt;br /&gt;By &lt;a href="https://medium.com/u/9b48e198e695"&gt;Raphael Dias&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://medium.com/design-bootcamp/are-we-actually-building-better-things-the-great-software-bazaar-c2494d208934"&gt;&lt;strong&gt;Are we actually building better things? &lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;→&lt;/strong&gt;&lt;br /&gt;The great software bazaar.&lt;br /&gt;By &lt;a href="https://medium.com/u/8b69bee90384"&gt;Dàniel Dalia&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;h3&gt;Support the newsletter&lt;/h3&gt;&lt;p&gt;If you find our content helpful, here’s how you can support us:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Check out &lt;a href="https://bit.ly/uxc-maz1"&gt;this week’s sponsor&lt;/a&gt; and support their work too&lt;/li&gt;&lt;li&gt;Forward this email to a friend and invite them to &lt;a href="https://newsletter.uxdesign.cc/"&gt;subscribe&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://uxdesigncc.medium.com/sponsor-the-ux-collective-newsletter-bf141c6284f"&gt;Sponsor an edition&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=64a9160bd2eb" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://uxdesign.cc/before-you-ship-your-wrapped-schr%C3%B6dingers-nvidia-infinite-tokens-64a9160bd2eb"&gt;Before you ship your Wrapped, Schrödinger’s Nvidia, Infinite tokens&lt;/a&gt; was originally published in &lt;a href="https://uxdesign.cc"&gt;UX Collective&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
-      <category>Publicações internacionais</category>
-      <source url="https://uxdesign.cc/feed">UX Collective</source>
-    </item>
-    <item>
-      <title>[UX Collective] The trash robot that doesn’t pick up, but hands out</title>
-      <link>https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4</link>
-      <guid isPermaLink="true">https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4</guid>
-      <pubDate>Mon, 16 Nov 2026 12:16:15 GMT</pubDate>
-      <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/2600/1*rJzIX7VSM6KLSfr7FqCJNQ.png" width="10181" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;On kawaii, embarrassment, and designing to invite&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxdesign.cc/the-trash-robot-that-doesnt-pick-up-but-hands-out-9f599d49f8d0?source=rss----138adf9c44c---4"&gt;Continue reading on UX Collective »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxdesign.cc/feed">UX Collective</source>
     </item>
@@ -581,15 +649,6 @@ especially for a one-person research function?&lt;/li&gt;
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
     </item>
     <item>
-      <title>[Design Culture] Play-In, Suíça e Eliminatórias: Entenda o formato que define o campeão do Mundial de LoL 2026</title>
-      <link>https://designculture.com.br/play-in-suica-e-eliminatorias-entenda-o-formato-que-define-o-campeao-do-mundial-de-lol-2026/</link>
-      <guid isPermaLink="true">https://designculture.com.br/play-in-suica-e-eliminatorias-entenda-o-formato-que-define-o-campeao-do-mundial-de-lol-2026/</guid>
-      <pubDate>Mon, 16 Nov 2026 02:06:33 GMT</pubDate>
-      <description>O Mundial de League of Legends 2026 é decidido em três fases: o Play-In (quatro times, eliminação dupla, só um avança), a Fase Suíça (16 times, três vitórias classificam, três&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
-    </item>
-    <item>
       <title>[UX Stack Exchange] Method for baseline the metrics for the product usability</title>
       <link>https://ux.stackexchange.com/questions/155771/method-for-baseline-the-metrics-for-the-product-usability</link>
       <guid isPermaLink="true">https://ux.stackexchange.com/questions/155771/method-for-baseline-the-metrics-for-the-product-usability</guid>
@@ -604,6 +663,30 @@ especially for a one-person research function?&lt;/li&gt;
 &lt;p&gt;Any help will be appreciated.&lt;/p&gt;</description>
       <category>Fóruns e debates</category>
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Italy fines Meta $887M over Android users' data access</title>
+      <link>https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</guid>
+      <pubDate>Sat, 14 Nov 2026 13:48:06 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"&gt;https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50497009"&gt;https://news.ycombinator.com/item?id=50497009&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 408&lt;/p&gt;
+&lt;p&gt;# Comments: 313&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Security Agencies Worldwide Found to Use Ad-Based Surveillance System</title>
+      <link>https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/</link>
+      <guid isPermaLink="true">https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/</guid>
+      <pubDate>Sat, 14 Nov 2026 02:15:41 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/"&gt;https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50492950"&gt;https://news.ycombinator.com/item?id=50492950&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 150&lt;/p&gt;
+&lt;p&gt;# Comments: 14&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Figma Blog] AI’s role in the creative process</title>
@@ -633,15 +716,6 @@ especially for a one-person research function?&lt;/li&gt;
       <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
     </item>
     <item>
-      <title>[Design Culture] Rebranding do Cubo Itaú é premiado no Latin American Design Awards 2026</title>
-      <link>https://designculture.com.br/rebranding-do-cubo-itau-e-premiado-no-latin-american-design-awards-2026/</link>
-      <guid isPermaLink="true">https://designculture.com.br/rebranding-do-cubo-itau-e-premiado-no-latin-american-design-awards-2026/</guid>
-      <pubDate>Fri, 13 Nov 2026 15:49:59 GMT</pubDate>
-      <description>Nova identidade visual do ecossistema de inovação foi reconhecida na categoria Design Experimental por unir design, tecnologia e flexibilidade O Cubo Itaú foi reconhecido no Latin American Design Awards 2026&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
-    </item>
-    <item>
       <title>[UX Planet] Claude Fable 5.2 Official Prompting Guide</title>
       <link>https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4</link>
       <guid isPermaLink="true">https://uxplanet.org/claude-fable-5-2-official-prompting-guide-34cd74abe0a2?source=rss----819cc2aaeee0---4</guid>
@@ -658,15 +732,6 @@ especially for a one-person research function?&lt;/li&gt;
       <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/akdy9z/terminal_borders_don_t_cost_cell"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
       <category>Fóruns e debates</category>
       <source url="https://lobste.rs/t/design.rss">Lobsters — tag design</source>
-    </item>
-    <item>
-      <title>[Design Culture] Posso escolher os sites antes de comprar guest posts? Como escolher com critério</title>
-      <link>https://designculture.com.br/posso-escolher-os-sites-antes-de-comprar-guest-posts-como-escolher-com-criterio/</link>
-      <guid isPermaLink="true">https://designculture.com.br/posso-escolher-os-sites-antes-de-comprar-guest-posts-como-escolher-com-criterio/</guid>
-      <pubDate>Fri, 13 Nov 2026 11:52:41 GMT</pubDate>
-      <description>Antes de investir em um guest post, é razoável perguntar: “Posso escolher os sites antes de comprar publicações?”. A resposta depende do fornecedor e do formato do serviço, mas a&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
     </item>
     <item>
       <title>[UX Collective 🇧🇷 (artigos)] Os Backrooms do Design System</title>
@@ -723,6 +788,18 @@ especially for a one-person research function?&lt;/li&gt;
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Jensen Huang Must Resign</title>
+      <link>https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign</link>
+      <guid isPermaLink="true">https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign</guid>
+      <pubDate>Wed, 11 Nov 2026 19:09:53 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign"&gt;https://www.economist.com/leaders/2026/11/11/jensen-huang-must-resign&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50457197"&gt;https://news.ycombinator.com/item?id=50457197&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 59&lt;/p&gt;
+&lt;p&gt;# Comments: 188&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[UX Stack Exchange] How can I validate LLM-generated thematic analysis of interview transcripts well enough to defend it to stakeholders?</title>
       <link>https://ux.stackexchange.com/questions/155751/how-can-i-validate-llm-generated-thematic-analysis-of-interview-transcripts-well</link>
       <guid isPermaLink="true">https://ux.stackexchange.com/questions/155751/how-can-i-validate-llm-generated-thematic-analysis-of-interview-transcripts-well</guid>
@@ -763,13 +840,16 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
     </item>
     <item>
-      <title>[Design Culture] Boiúna: Terror no Amazonas –  a cobra gigante que superou o clássico “Anaconda”!</title>
-      <link>https://designculture.com.br/boiuna-terror-no-amazonas-a-cobra-gigante-que-superou-o-classico-anaconda/</link>
-      <guid isPermaLink="true">https://designculture.com.br/boiuna-terror-no-amazonas-a-cobra-gigante-que-superou-o-classico-anaconda/</guid>
-      <pubDate>Wed, 11 Nov 2026 16:16:27 GMT</pubDate>
-      <description>Ato 1 – O que é &amp;#8220;Boiúna: Terror no Amazonas&amp;#8221;? Quase um ano depois do lançamento do filme &amp;#8220;Anaconda&amp;#8221;, com Jack Black e Selton Mello, que trouxe um tom mais&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
+      <title>[Hacker News — UX (50+ pontos)] Open research, stronger privacy: Making Firefox users harder to fingerprint</title>
+      <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
+      <guid isPermaLink="true">https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</guid>
+      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/"&gt;https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50452742"&gt;https://news.ycombinator.com/item?id=50452742&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 180&lt;/p&gt;
+&lt;p&gt;# Comments: 73&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[IxDF — UX Daily] Black Friday 2024: Invest in UX Design Education</title>
@@ -790,22 +870,28 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
-      <title>[Design Culture] Holy Studio conquista ouro no Prêmio Bornancini com embalagem de bourbon americano</title>
-      <link>https://designculture.com.br/holy-studio-conquista-ouro-no-premio-bornancini-com-embalagem-de-bourbon-americano/</link>
-      <guid isPermaLink="true">https://designculture.com.br/holy-studio-conquista-ouro-no-premio-bornancini-com-embalagem-de-bourbon-americano/</guid>
-      <pubDate>Tue, 10 Nov 2026 14:22:45 GMT</pubDate>
-      <description>Estúdio brasileiro especializado em design para bebidas alcoólicas também teve esteve na shortlist da premiação em outras categorias e recebeu dois bronzes no Latin American Design Awards Uma garrafa inspirada&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
+      <title>[Hacker News — UX (50+ pontos)] A comprehensive study of how fingerprintable users are</title>
+      <link>https://fingerprinting.study/</link>
+      <guid isPermaLink="true">https://fingerprinting.study/</guid>
+      <pubDate>Tue, 10 Nov 2026 19:03:54 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://fingerprinting.study/"&gt;https://fingerprinting.study/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50444684"&gt;https://news.ycombinator.com/item?id=50444684&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 135&lt;/p&gt;
+&lt;p&gt;# Comments: 73&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
-      <title>[Design Culture] O poder da cor no design: o que ela comunica antes das palavras</title>
-      <link>https://designculture.com.br/o-poder-da-cor-no-design-o-que-ela-comunica-antes-das-palavras/</link>
-      <guid isPermaLink="true">https://designculture.com.br/o-poder-da-cor-no-design-o-que-ela-comunica-antes-das-palavras/</guid>
-      <pubDate>Tue, 10 Nov 2026 13:29:24 GMT</pubDate>
-      <description>Antes de lermos um título, já começámos a formar uma impressão sobre uma página. O fundo, os contrastes e as cores dos elementos ajudam-nos a perceber onde olhar e que&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
+      <title>[Hacker News — UX (50+ pontos)] Generative AI uses more energy on non-English text</title>
+      <link>https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/</link>
+      <guid isPermaLink="true">https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/</guid>
+      <pubDate>Tue, 10 Nov 2026 15:07:28 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/"&gt;https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50441444"&gt;https://news.ycombinator.com/item?id=50441444&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 231&lt;/p&gt;
+&lt;p&gt;# Comments: 131&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[UX Collective 🇧🇷 (artigos)] Estou preocupado com o futuro do UX Design</title>
@@ -815,6 +901,18 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>&lt;h4&gt;&lt;strong&gt;&lt;em&gt;Uma reflexão pessoal sobre o que a inteligência artificial está mudando na profissão e o que talvez ainda não nos preparamos para admitir.&lt;/em&gt;&lt;/strong&gt;&lt;/h4&gt;&lt;figure&gt;&lt;img alt="Composição abstrata de formas geométricas sobre fundo bege texturizado, com círculos, semicírculos, arcos, faixas curvas e linhas nas cores laranja, azul-claro e azul-marinho. Pequenos pontos e traços estão distribuídos pela imagem, criando uma sensação de movimento e dinamismo. A composição forma as letras UX." src="https://cdn-images-1.medium.com/max/1024/1*VHg5iphend19gDGlHLaGLw.png" /&gt;&lt;figcaption&gt;Formas geométricas fragmentadas representam as transformações e incertezas sobre o futuro do UX Design.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;No &lt;a href="https://stateofaidesign.com/"&gt;AI in Design Report 2026&lt;/a&gt;, realizado pelo Designer Fund em parceria com a Foundation Capital, encontrei um relato que me chamou a atenção.&lt;/p&gt;&lt;p&gt;Um executivo de uma empresa de capital aberto contou que algumas equipes de design foram dissolvidas e suas responsabilidades passaram para Product Managers usando ferramentas de inteligência artificial. Segundo ele, a qualidade do design caiu bastante, mas a empresa considerou que o resultado estava bom o suficiente.&lt;/p&gt;&lt;p&gt;É apenas um caso, e seria precipitado tirar grandes conclusões a partir dele. Mas acho que ilustra bem uma preocupação que tenho:&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;A IA não precisa fazer um trabalho tão bom quanto o de designers experientes. Basta entregar algo que a empresa considere bom o suficiente.&lt;/strong&gt;&lt;/blockquote&gt;&lt;p&gt;E quem define isso, na maioria das vezes, não é o designer.&lt;/p&gt;&lt;p&gt;Depois de 26 anos trabalhando com design e tecnologia, recentemente decidi seguir outro caminho profissional (vou falar um pouco mais sobre essa decisão no final do texto). Ao longo da carreira, trabalhei em importantes empresas de tecnologia. Liderei equipes, acompanhei o crescimento de muita gente, fiz grandes amigos e até ajudei a criar uma conferência de UX Design, a &lt;a href="https://www.uxconf.com.br/"&gt;UXConf BR&lt;/a&gt;. Tenho muito orgulho dessa trajetória.&lt;/p&gt;&lt;p&gt;O design me proporcionou oportunidades incríveis, experiências que levo para a vida e, principalmente, o privilégio de conhecer e trabalhar com pessoas extraordinárias. Encontrei nessa comunidade um sentimento de pertencimento que continua sendo muito importante para mim. &lt;strong&gt;Talvez justamente por isso seja tão difícil admitir que estou preocupado com o futuro do UX Design como conhecemos.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Este texto é uma opinião pessoal, construída a partir das minhas experiências e de algumas pesquisas que venho acompanhando. Tomara que eu esteja errado.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Uma desigualdade que sempre esteve ali&lt;/h3&gt;&lt;p&gt;Trabalhei em empresas de diferentes tamanhos, culturas e níveis de maturidade em design. Apesar dessas diferenças, havia algo que se repetia: a área de UX tinha menos influência nas decisões do que as áreas de produto e tecnologia.&lt;/p&gt;&lt;p&gt;Isso não significa que nosso trabalho não fosse valorizado. Trabalhei com lideranças que acreditavam genuinamente no design e com profissionais de produto e engenharia que foram grandes parceiros. Mas esse reconhecimento raramente vinha acompanhado de poder de decisão.&lt;/p&gt;&lt;p&gt;Na prática, as decisões mais importantes sobre o produto costumavam estar nas mãos de outras áreas. UX participava, pesquisava, recomendava e influenciava. Mas, quando surgiam divergências, raramente tínhamos a palavra final.&lt;/p&gt;&lt;p&gt;A remuneração seguia uma lógica parecida. Como gerente, tive acesso às planilhas salariais das diferentes áreas de produto e pude constatar que, em muitos casos, profissionais de UX recebiam menos do que desenvolvedores e Product Managers do mesmo nível. Sei que minha experiência não representa necessariamente todo o mercado, mas acho que os salários dizem muito sobre o quanto as empresas valorizam cada profissão.&lt;/p&gt;&lt;p&gt;Na liderança, a diferença também aparecia. Era comum encontrar diretores e vice-presidentes de produto e tecnologia, enquanto profissionais de design nesses níveis eram bem mais raros.&lt;/p&gt;&lt;p&gt;Essa desigualdade de forças é algo que discuto no meu livro &lt;a href="https://ojogocorporativodoux.com/"&gt;&lt;em&gt;O Jogo Corporativo do UX&lt;/em&gt;&lt;/a&gt; e também em um artigo que publiquei em agosto, &lt;a href="https://brasil.uxdesign.cc/seis-verdades-inconvenientes-sobre-design-n%C3%A3o-ser-valorizado-nas-empresas-fd55f9f4d4c1"&gt;&lt;em&gt;Quando UX não é valorizado: 6 verdades inconvenientes&lt;/em&gt;&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Na época, ainda trabalhava na área e já questionava por que UX continuava tendo menos poder nas organizações. Agora, com o avanço da inteligência artificial, passei a me preocupar também com o que essa desigualdade pode significar para o futuro da profissão.&lt;/p&gt;&lt;p&gt;Durante anos ouvimos que UX precisava ser mais estratégico, falar a língua do negócio, demonstrar seu valor e conquistar um lugar nas decisões. Eu mesmo defendi tudo isso muitas vezes. Continuo achando válido, mas me pergunto por que ainda estamos tendo praticamente a mesma conversa.&lt;/p&gt;&lt;blockquote&gt;Com o tempo, entendi que essa diferença não dependia apenas da capacidade de designers demonstrarem seu valor. Havia uma questão de estrutura e poder.&lt;/blockquote&gt;&lt;p&gt;Produto costuma responder pelos resultados do negócio e pelas prioridades do desenvolvimento. Tecnologia responde pela viabilidade e pela entrega. Design, mesmo quando participa dessas discussões, raramente tem a mesma autoridade.&lt;/p&gt;&lt;p&gt;Alguém pode concluir que o caminho é designers assumirem responsabilidade direta por resultados de negócio ou migrarem para produto.&lt;/p&gt;&lt;p&gt;Para muitas pessoas, essa pode ser uma boa escolha. Mas, se a principal forma de designers ganharem poder de decisão é deixarem de ocupar uma função de design, isso diz bastante sobre o lugar que a profissão ocupa nas empresas.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;O trabalho de UX é mais operacional do que gostamos de admitir&lt;/h3&gt;&lt;p&gt;Existe uma ideia bastante difundida de que a IA vai assumir as tarefas operacionais e liberar os designers para se dedicarem à estratégia, à criatividade e às decisões de negócio. Seria ótimo, mas tenho minhas dúvidas.&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;&lt;em&gt;Talvez isso incomode algumas pessoas, mas nós, como comunidade, temos dificuldade para admitir o quanto o trabalho de UX Design é operacional.&lt;/em&gt;&lt;/strong&gt;&lt;/blockquote&gt;&lt;p&gt;Durante anos construímos um discurso sobre o caráter estratégico da profissão. Falamos de pensamento sistêmico, compreensão do comportamento humano, descoberta de problemas e influência nas decisões de negócio.&lt;/p&gt;&lt;p&gt;Tudo isso faz parte do design. Mas será que representa aquilo que realmente ocupa a maior parte do nosso tempo de trabalho?&lt;/p&gt;&lt;p&gt;Pela minha experiência, não. Trabalhei muitos anos como designer e, depois, como gestor de equipes de UX. Acompanhei a rotina de dezenas de profissionais, participei de planejamentos, distribuí atividades e avaliei entregas. E o que vi, na maior parte do tempo, foi um trabalho muito mais voltado à execução do que à estratégia.&lt;/p&gt;&lt;p&gt;Desenhar interfaces, montar protótipos, organizar fluxos, criar componentes, preparar especificações e documentar soluções sempre ocuparam uma parte considerável da rotina das equipes.&lt;/p&gt;&lt;p&gt;E não vejo nenhum demérito nisso. Muito pelo contrário. O trabalho de execução é uma parte fundamental do design e exige conhecimento, experiência, sensibilidade e capacidade de resolver problemas complexos. Tenho enorme admiração por quem domina esse trabalho e sei, por experiência própria, o quanto é difícil fazê-lo bem.&lt;/p&gt;&lt;p&gt;O que critico é a dificuldade que temos, como comunidade, de reconhecer o espaço que essas atividades realmente ocupam na profissão.&lt;/p&gt;&lt;p&gt;Acho que passamos tanto tempo tentando convencer as empresas de que UX é uma disciplina estratégica que talvez tenhamos começado a confundir aquilo que gostaríamos que a profissão fosse com aquilo que efetivamente fazemos nas organizações.&lt;/p&gt;&lt;p&gt;E faço questão de me incluir nessa crítica. Também defendi esse discurso durante muitos anos.&lt;/p&gt;&lt;p&gt;Não acho que a dimensão estratégica do design seja uma invenção. Ela existe, é importante e deveria ter mais espaço nas empresas. Mas, na maioria das organizações em que trabalhei, não correspondia à maior parte das responsabilidades dos designers.&lt;/p&gt;&lt;p&gt;Isso importa agora porque a inteligência artificial está avançando sobre as atividades que ocupam uma parcela significativa do nosso trabalho cotidiano.&lt;/p&gt;&lt;p&gt;O que antes exigia dias de execução já pode, em determinadas situações, ser produzido em minutos. E tudo indica que as ferramentas de IA ficarão cada vez mais inteligentes e capazes de assumir uma parcela ainda maior desse trabalho.&lt;/p&gt;&lt;p&gt;A resposta mais comum da comunidade é que os designers deixarão de executar e passarão a trabalhar de maneira mais estratégica.&lt;/p&gt;&lt;p&gt;Mas essa resposta ignora um problema antigo: as decisões estratégicas de produto já estão, em grande parte, nas mãos das áreas de Produto e Tecnologia.&lt;/p&gt;&lt;blockquote&gt;&lt;strong&gt;Se a IA assumir boa parte da execução, quem garante que o trabalho estratégico que restar será entregue aos designers?&lt;/strong&gt;&lt;/blockquote&gt;&lt;p&gt;Um Product Manager usando IA já consegue explorar soluções, criar protótipos e até construir interfaces. Desenvolvedores também estão ampliando suas capacidades.&lt;/p&gt;&lt;p&gt;É verdade que designers estão fazendo o caminho inverso, escrevendo código, construindo produtos e assumindo atividades que antes pertenciam a outras áreas. O próprio &lt;a href="https://stateofaidesign.com/"&gt;&lt;em&gt;AI in Design Report 2026&lt;/em&gt;&lt;/a&gt; mostra essa transformação. Acho isso positivo e vejo oportunidades interessantes nesse movimento.&lt;/p&gt;&lt;p&gt;Só que, quando um designer passa a executar atividades de produto, ele frequentemente continua trabalhando numa estrutura em que outra pessoa tem autoridade sobre as decisões. Quando um Product Manager passa a executar atividades de design, a empresa pode começar a questionar se precisa manter a mesma quantidade de designers.&lt;/p&gt;&lt;p&gt;Há ainda outra questão. Estamos assumindo que a IA ficará com as tarefas simples e deixará as decisões complexas para os humanos. Em uma &lt;a href="https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation"&gt;entrevista ao podcast &lt;em&gt;Decoder&lt;/em&gt;, do The Verge&lt;/a&gt;, Bill Gates questiona a existência de um limite de complexidade que a IA não consiga ultrapassar.&lt;/p&gt;&lt;p&gt;Se ele estiver certo, nem mesmo a estratégia será necessariamente um espaço protegido no longo prazo.&lt;/p&gt;&lt;p&gt;Minha preocupação é que estejamos apostando o futuro da profissão numa migração para atividades estratégicas que, historicamente, nunca estiveram inteiramente sob nossa responsabilidade.&lt;/p&gt;&lt;p&gt;Talvez esse seja o ponto mais difícil de discutir como comunidade: reconhecer que o trabalho operacional sempre foi uma parte central do UX Design e pensar honestamente no que acontecerá se as empresas precisarem de cada vez menos pessoas para executá-lo.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;O que os estudos estão indicando&lt;/h3&gt;&lt;p&gt;Algumas pesquisas recentes contribuíram para aumentar minhas preocupações.&lt;/p&gt;&lt;p&gt;Uma delas é o estudo &lt;a href="https://www.anthropic.com/research/employment-at-anthropic"&gt;&lt;em&gt;How Employment is Changing at Anthropic&lt;/em&gt;&lt;/a&gt;, publicado em outubro de 2026, que conheci por meio de um compartilhamento do Érico Fileno.&lt;/p&gt;&lt;p&gt;A pesquisa analisa como a inteligência artificial está transformando o trabalho na própria Anthropic. Um dos dados que mais me chamou a atenção foi a queda na participação de profissionais juniores nas contratações técnicas da empresa: de 27% para 9% desde o início de 2025.&lt;/p&gt;&lt;p&gt;É importante interpretar esse número corretamente. Trata-se de uma proporção, e não do número total de contratações. A Anthropic continua crescendo e contratando mais profissionais técnicos em números absolutos. O que mudou foi o perfil das pessoas contratadas.&lt;/p&gt;&lt;p&gt;O dado se refere a funções técnicas, principalmente engenharia, e não a design. Para mim, isso só aumenta a preocupação. Mostra que a mudança atinge também áreas que historicamente tiveram mais poder nas empresas. Para profissões que já tinham menos influência, como design, a margem para absorver essa transformação me parece ainda menor.&lt;/p&gt;&lt;p&gt;O estudo também indica uma valorização crescente de profissionais com autonomia, experiência e capacidade de julgamento, à medida que a IA assume mais tarefas de execução.&lt;/p&gt;&lt;p&gt;Os próprios autores reconhecem que muitas práticas da Anthropic não podem ser replicadas no restante da economia. Estamos falando de uma empresa que desenvolve essas tecnologias e as utiliza de forma muito mais intensa que a média. Ainda assim, acho interessante observar o que acontece em uma organização tão próxima dessa transformação.&lt;/p&gt;&lt;p&gt;Outra fonte é o &lt;a href="https://stateofaidesign.com/"&gt;&lt;em&gt;AI in Design Report 2026&lt;/em&gt;&lt;/a&gt;, que citei no início, publicado em maio. O Designer Fund e a Foundation Capital são dois fundos de investimento em empresas de tecnologia. A pesquisa ouviu 906 profissionais de design em mais de 60 países. Vale notar que 60% dos participantes têm mais de dez anos de experiência. Ou seja, os profissionais em início de carreira, os que mais me preocupam, estão pouco representados.&lt;/p&gt;&lt;p&gt;Segundo o relatório, 91% dos participantes utilizam inteligência artificial pelo menos uma vez por semana. Em 2025, esse percentual era de 54%. É uma mudança enorme em um intervalo muito curto.&lt;/p&gt;&lt;p&gt;O relatório também indica designers assumindo atividades de programação e produto, além de trazer relatos de empresas reorganizando suas equipes.&lt;/p&gt;&lt;p&gt;Mas há dados que apontam em outra direção. Entre as lideranças de design entrevistadas, 60% esperam manter ou aumentar suas equipes no próximo ano, enquanto 10% preveem reduções.&lt;/p&gt;&lt;p&gt;Menciono isso porque não quero selecionar apenas os números que confirmam minhas preocupações.&lt;/p&gt;&lt;p&gt;Também acompanhei a entrevista de Bill Gates ao &lt;em&gt;The Verge&lt;/em&gt;, publicada em outubro de 2026, e seu &lt;a href="https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"&gt;ensaio sobre os impactos da inteligência artificial&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Gates acredita que a IA poderá trazer grandes benefícios, mas alerta para transformações profundas no mercado de trabalho, com consequências difíceis para muitas pessoas. Ele chama atenção para a velocidade com que atividades intelectuais estão sendo automatizadas e para os possíveis impactos sobre profissionais em início e meio de carreira.&lt;/p&gt;&lt;p&gt;Também é preciso separar os efeitos da IA de outros fatores. O mercado de tecnologia passou por uma forte retração a partir de 2022, com juros mais altos e o ajuste depois do crescimento acelerado da pandemia, quando a IA generativa ainda não tinha esse peso. Parte das demissões e da dificuldade de contratação que vemos hoje vem desse ciclo. O que me preocupa é que a IA chega justamente quando a profissão já estava fragilizada.&lt;/p&gt;&lt;p&gt;Sinto falta de dados sobre o Brasil. As fontes que cito são internacionais e bastante concentradas no mercado americano. Não sei até que ponto o mercado brasileiro acompanha esse ritmo. Se alguém tiver pesquisas locais, adoraria ver.&lt;/p&gt;&lt;p&gt;Nenhuma dessas fontes prova que a profissão de UX Design vai desaparecer. Mas elas mostram que a natureza do trabalho está mudando rapidamente. Minha preocupação vem de combinar essas transformações com as fragilidades que já observava antes da popularização da IA.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;O mundo precisa de mais design. Mas precisará de mais designers?&lt;/h3&gt;&lt;p&gt;Apesar de estar preocupado com o futuro da profissão de UX Designer como a conhecemos, continuo acreditando profundamente que o mundo precisa de design mais do que nunca.&lt;/p&gt;&lt;blockquote&gt;Minha preocupação é outra: &lt;strong&gt;o fato de o mundo precisar cada vez mais de design não significa necessariamente que o mercado precisará de mais designers.&lt;/strong&gt;&lt;/blockquote&gt;&lt;p&gt;É possível que o design se torne ainda mais importante e presente em nossas vidas, enquanto a profissão de UX Designer, como conhecemos hoje, perca espaço. Essa é provavelmente a hipótese que mais me incomoda.&lt;/p&gt;&lt;p&gt;Tenho a impressão de que as primeiras consequências mais visíveis estão aparecendo nas oportunidades para profissionais juniores. Mas não acredito que isso vá parar por aí.&lt;/p&gt;&lt;p&gt;Também não imagino uma substituição organizada, começando pelos juniores, passando pelos plenos e chegando aos seniores. A IA automatiza atividades, e existem atividades automatizáveis em todos os níveis de experiência.&lt;/p&gt;&lt;p&gt;O que consigo imaginar são equipes menores, apoiadas por ferramentas cada vez mais capazes, produzindo aquilo que antes exigia mais profissionais.&lt;/p&gt;&lt;p&gt;Isso me entristece especialmente quando penso em quem está começando. Se as oportunidades de entrada diminuírem, como vamos formar os profissionais experientes de amanhã?&lt;/p&gt;&lt;p&gt;Tive a sorte de encontrar muita gente disposta a compartilhar conhecimento no início da carreira. Mais tarde, como líder, uma das coisas que mais me deram satisfação foi acompanhar o desenvolvimento de profissionais mais jovens.&lt;/p&gt;&lt;p&gt;Existe uma geração muito talentosa chegando ao mercado. Tenho receio de que ela encontre cada vez menos oportunidades para desenvolver esse talento. E não me parece justo exigir experiência de quem já não consegue encontrar espaço para adquiri-la.&lt;/p&gt;&lt;blockquote&gt;Uma área que talvez tenha perspectivas um pouco melhores é UX Research. Entender o comportamento de pessoas reais, observar seus contextos e descobrir problemas que ainda não foram percebidos me parece um trabalho que continuará tendo muito valor. Ferramentas de IA podem simular respostas humanas, mas isso não é a mesma coisa que observar pessoas reais em situações reais.&lt;/blockquote&gt;&lt;p&gt;Mesmo assim, não acho que Research esteja imune. Também vimos equipes de Research sofrerem cortes e reorganizações nos últimos anos, antes mesmo de a IA ganhar o espaço que tem hoje. As ferramentas de pesquisa e análise estão evoluindo rapidamente. E uma empresa pode valorizar a pesquisa sem necessariamente manter uma equipe especializada.&lt;/p&gt;&lt;blockquote&gt;Gostaria especialmente de ouvir quem trabalha com pesquisa sobre isso.&lt;/blockquote&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Será que estamos evitando uma conversa difícil?&lt;/h3&gt;&lt;p&gt;Sinto que nós, como comunidade, temos dificuldade para considerar seriamente a possibilidade de o mercado passar a precisar de menos profissionais de UX.&lt;/p&gt;&lt;p&gt;Para muita gente, eu incluso, UX é muito mais do que uma profissão. Faz parte da própria identidade. São anos de estudo, dedicação, amizades e expectativas construídas em torno de uma carreira.&lt;/p&gt;&lt;p&gt;Passei boa parte da vida defendendo o design, buscando espaço para minhas equipes e tentando demonstrar o valor do nosso trabalho. Não me arrependo de nada disso.&lt;/p&gt;&lt;blockquote&gt;Mas hoje me pergunto se, às vezes, não estamos confundindo aquilo que gostaríamos que acontecesse com aquilo que realmente pode acontecer.&lt;/blockquote&gt;&lt;p&gt;Escuto frequentemente que a IA vai criar novas oportunidades, que os designers serão mais estratégicos e que habilidades humanas, como empatia, criatividade e pensamento crítico, ganharão ainda mais importância. Assim espero, mas me incomoda quando essas possibilidades aparecem como se fossem praticamente garantidas.&lt;/p&gt;&lt;p&gt;Há poucos meses, participei do &lt;a href="https://podcasts.apple.com/br/podcast/a-nova-era-da-lideran%C3%A7a-em-design-com-pedro-belleza/id1515858100?i=1000786949340"&gt;podcast Papo de UX, com o Luan Mateus&lt;/a&gt;, e cheguei a dizer que, para o UX Design, “o melhor ainda está por vir”.&lt;/p&gt;&lt;p&gt;Naquele momento, eu realmente acreditava nisso. Mas, de lá para cá, fui refletindo mais sobre essas mudanças, lendo pesquisas e reconsiderando algumas das minhas próprias convicções.&lt;/p&gt;&lt;p&gt;Hoje, sinceramente, já não tenho a mesma certeza. E admitir essa mudança de opinião não é fácil, principalmente depois de tantos anos defendendo e acreditando no crescimento da profissão.&lt;/p&gt;&lt;p&gt;Não estou dizendo que as pessoas otimistas estejam erradas. Conheço profissionais fazendo coisas incríveis com inteligência artificial, descobrindo possibilidades que até pouco tempo atrás pareciam impensáveis. Admiro isso e torço para que continuem abrindo caminhos.&lt;/p&gt;&lt;p&gt;Só gostaria que também conseguíssemos discutir os riscos, sem que toda preocupação fosse interpretada como resistência à tecnologia ou falta de capacidade de adaptação.&lt;/p&gt;&lt;p&gt;Na entrevista ao &lt;em&gt;Decoder&lt;/em&gt;, Bill Gates diz que não gosta de trazer notícias preocupantes, mas considera pior deixar de alertar as pessoas sobre as mudanças que podem estar chegando.&lt;/p&gt;&lt;p&gt;Me identifiquei com esse sentimento. Não tenho prazer nenhum em escrever sobre um possível futuro difícil para uma profissão que fez parte da minha vida durante tanto tempo. Mas acho que precisamos conseguir encarar essa possibilidade.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Hoje consigo olhar para tudo isso de outro lugar&lt;/h3&gt;&lt;p&gt;Em outubro, &lt;a href="https://www.linkedin.com/posts/pedrobelleza_big-life-update-depois-de-26-anos-trabalhando-share-7517950930445770752-Tdsq/"&gt;anunciei minha decisão de deixar o mercado de tecnologia para me dedicar à gestão dos negócios rurais da minha família, no agronegócio&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Foi uma decisão motivada por diferentes fatores: questões familiares, novas responsabilidades, vontade de experimentar outro modo de vida e um certo cansaço do ambiente corporativo. Minhas preocupações com o futuro do UX Design foram apenas um desses motivos.&lt;/p&gt;&lt;p&gt;Essa mudança me proporcionou uma perspectiva diferente. Pela primeira vez em muitos anos, meu futuro profissional não depende diretamente do mercado de UX. Não preciso mais disputar posições de liderança em design, justificar a dimensão de uma equipe ou convencer executivos de que a área merece mais investimento.&lt;/p&gt;&lt;p&gt;Reconheço que estou falando de uma posição privilegiada. Tenho uma alternativa profissional que muitas pessoas não têm. Consigo olhar para essas transformações com uma tranquilidade que provavelmente não teria se estivesse procurando uma oportunidade na área.&lt;/p&gt;&lt;p&gt;Tenho enorme respeito por quem continua construindo sua carreira em UX, especialmente por quem está enfrentando dificuldades para encontrar trabalho. Conheço o talento, a dedicação e o esforço de tantos profissionais que seguem fazendo um trabalho extraordinário, muitas vezes em condições difíceis.&lt;/p&gt;&lt;p&gt;É muito diferente discutir o futuro de uma profissão quando a gente depende dela para pagar as contas.&lt;/p&gt;&lt;p&gt;Talvez esse distanciamento esteja me ajudando a enxergar algumas coisas com mais liberdade. Mas também sei que estar fora do mercado pode fazer com que eu deixe de perceber movimentos positivos que estão acontecendo dentro dele.&lt;/p&gt;&lt;p&gt;Se ainda estivesse atuando em UX, provavelmente estaria investindo em pesquisa, no entendimento do negócio e no desenvolvimento de habilidades para trabalhar com IA de maneira mais autônoma. Mas não tenho como garantir que esse seria o caminho certo.&lt;/p&gt;&lt;p&gt;Depois de tantos anos aconselhando, contratando e desenvolvendo profissionais, hoje me sinto mais confortável compartilhando dúvidas do que oferecendo respostas.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;No fundo, espero estar errado&lt;/h3&gt;&lt;p&gt;Tenho um carinho enorme pela profissão e, principalmente, pelas pessoas que fazem parte dela. São amigos, ex-colegas, profissionais que tive a alegria de liderar e pessoas com quem aprendi muito ao longo desses 26 anos.&lt;/p&gt;&lt;p&gt;Não gostaria de ver essas pessoas enfrentando um mercado cada vez mais difícil. Muito menos gostaria de ver uma nova geração deixando de encontrar oportunidades para trabalhar com algo de que gosta.&lt;/p&gt;&lt;p&gt;Adoraria que a inteligência artificial abrisse mais portas do que fechasse, que os profissionais de design conquistassem mais influência nas organizações e que a profissão fosse mais valorizada, inclusive financeiramente.&lt;/p&gt;&lt;p&gt;Não sei como será o futuro do UX Design. Talvez a profissão encolha, surjam novas funções ou ela se transforme de maneiras que hoje nem consigo imaginar. Por isso, gostaria muito de ouvir quem pensa diferente.&lt;/p&gt;&lt;p&gt;Se tu discordas de mim, comenta. Compartilha tua experiência, mostra pesquisas que apontem em outra direção ou conta o que estás vendo de positivo acontecer na tua empresa.&lt;/p&gt;&lt;p&gt;Gostaria de encontrar bons motivos para mudar de opinião.&lt;/p&gt;&lt;p&gt;Embora esteja começando uma vida profissional bastante diferente, continuo torcendo muito pelo design e pelas pessoas dessa comunidade que me acolheu durante tantos anos.&lt;/p&gt;&lt;p&gt;E espero muito que o futuro me prove errado.&lt;/p&gt;&lt;h4&gt;Estudos e entrevistas mencionados&lt;/h4&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Anthropic Institute.&lt;/strong&gt; &lt;a href="https://www.anthropic.com/research/employment-at-anthropic"&gt;&lt;em&gt;How Employment is Changing at Anthropic&lt;/em&gt;&lt;/a&gt;. Outubro de 2026.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Designer Fund e Foundation Capital.&lt;/strong&gt; &lt;a href="https://stateofaidesign.com/"&gt;&lt;em&gt;AI in Design Report 2026&lt;/em&gt;&lt;/a&gt;. Maio de 2026. Pesquisa com 906 profissionais de design em mais de 60 países sobre o impacto da inteligência artificial na profissão.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;The Verge, podcast Decoder.&lt;/strong&gt; &lt;a href="https://www.theverge.com/podcast/1015408/bill-gates-ai-interview-microsoft-openai-anthropic-risk-policy-regulation"&gt;&lt;em&gt;Bill Gates says to prepare for 20 years of ‘tumultuous’ AI disruption&lt;/em&gt;&lt;/a&gt;. Entrevista de Nilay Patel com Bill Gates, outubro de 2026.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Bill Gates.&lt;/strong&gt; &lt;a href="https://www.gatesnotes.com/a-turbulent-ai-era-and-critical-choices-to-make"&gt;&lt;em&gt;The turbulent AI era is here. The choices we make now are critical&lt;/em&gt;&lt;/a&gt;. Gates Notes, agosto de 2026.&lt;/li&gt;&lt;/ol&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=ac3a65ae639a" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/estou-preocupado-com-o-futuro-do-ux-design-ac3a65ae639a"&gt;Estou preocupado com o futuro do UX Design&lt;/a&gt; was originally published in &lt;a href="https://brasil.uxdesign.cc"&gt;UX Collective 🇧🇷&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
       <category>Brasil</category>
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] AI Users have workdays up to 90 min longer than non-users</title>
+      <link>https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/</link>
+      <guid isPermaLink="true">https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/</guid>
+      <pubDate>Tue, 10 Nov 2026 12:57:24 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"&gt;https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50439686"&gt;https://news.ycombinator.com/item?id=50439686&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 67&lt;/p&gt;
+&lt;p&gt;# Comments: 27&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[IxDF — UX Daily] Who, What, and How: Design Maps Show You the Way for Implementation</title>
@@ -835,13 +933,28 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
-      <title>[Design Culture] Gravações da Semana do Design Itaú 2026 já estão liberadas</title>
-      <link>https://designculture.com.br/gravacoes-da-semana-do-design-itau-2026-ja-estao-liberadas/</link>
-      <guid isPermaLink="true">https://designculture.com.br/gravacoes-da-semana-do-design-itau-2026-ja-estao-liberadas/</guid>
-      <pubDate>Mon, 09 Nov 2026 22:03:53 GMT</pubDate>
-      <description>Design pra conversar foi o tema da edição 2026 da Semana do Design Itaú, que aconteceu nos dias 5 e 6 de novembro. Quem não conseguiu acompanhar ao vivo agora pode&amp;#8230;</description>
-      <category>Brasil</category>
-      <source url="https://www.designculture.com.br/feed">Design Culture</source>
+      <title>[Hacker News — UX (50+ pontos)] Ultorg: The User Interface for Relational Databases</title>
+      <link>https://www.ultorg.com/</link>
+      <guid isPermaLink="true">https://www.ultorg.com/</guid>
+      <pubDate>Tue, 10 Nov 2026 03:59:39 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.ultorg.com/"&gt;https://www.ultorg.com/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50435898"&gt;https://news.ycombinator.com/item?id=50435898&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 157&lt;/p&gt;
+&lt;p&gt;# Comments: 62&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Exact – a new cross platform UI framework</title>
+      <link>https://github.com/expo/exact</link>
+      <guid isPermaLink="true">https://github.com/expo/exact</guid>
+      <pubDate>Mon, 09 Nov 2026 22:59:13 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://github.com/expo/exact"&gt;https://github.com/expo/exact&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50433541"&gt;https://news.ycombinator.com/item?id=50433541&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 137&lt;/p&gt;
+&lt;p&gt;# Comments: 121&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Figma Blog] 6 easy ways to use the Figma agent right now</title>
@@ -851,6 +964,18 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>From making designs more expressive and automating busywork, to exploring more possibilities on the canvas, here are six ways to push designers further with the Figma agent.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] CUI – Native UI components for C</title>
+      <link>https://yappologistic.github.io/CUI/</link>
+      <guid isPermaLink="true">https://yappologistic.github.io/CUI/</guid>
+      <pubDate>Mon, 09 Nov 2026 19:35:16 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://yappologistic.github.io/CUI/"&gt;https://yappologistic.github.io/CUI/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50430621"&gt;https://news.ycombinator.com/item?id=50430621&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 180&lt;/p&gt;
+&lt;p&gt;# Comments: 101&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Lobsters — tag design] I was wrong about dark mode</title>
