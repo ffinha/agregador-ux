@@ -5,7 +5,7 @@
     <link>https://ffinha.github.io/agregador-ux/feed.xml</link>
     <description>Feed agregado de publicações e fóruns de UI/UX (Brasil e internacional).</description>
     <language>pt-br</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:38:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 07:46:56 GMT</lastBuildDate>
     <item>
       <title>[UX Collective] Lessons from 3D scanning St John’s Co-Cathedral</title>
       <link>https://uxdesign.cc/lessons-from-3d-scanning-st-johns-co-cathedral-700911d61cfe?source=rss----138adf9c44c---4</link>
@@ -64,6 +64,15 @@
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
     </item>
     <item>
+      <title>[IxDF — UX Daily] What Does a User Interface (UI) Designer Do?</title>
+      <link>https://ixdf.org/literature/article/user-interface-designer</link>
+      <guid isPermaLink="true">https://ixdf.org/literature/article/user-interface-designer</guid>
+      <pubDate>Sun, 22 Nov 2026 10:00:00 GMT</pubDate>
+      <description>What’s in every memorable digital experience is a seamlessly navigable website or an app that feels like second nature—and what lies behind those are user interface (UI) designers; they’re the ones who shape the aesthetics and functionality of any digital interface. But what does a user interface designer actually do? And why is the skillset they have so in demand? Read on, to find out all about it.What Is User Interface (UI) Design?User interface design —or UI design—is the discipline and area about how professionals create visual elements and layouts for a digital product like a website, an app, or a wearable device, but there's much more to it than that and there’s an overall effect that...</description>
+      <category>Publicações internacionais</category>
+      <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
+    </item>
+    <item>
       <title>[UX Collective] The judge used to be the user</title>
       <link>https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/the-judge-used-to-be-the-user-0a958f24bb32?source=rss----138adf9c44c---4</guid>
@@ -73,17 +82,13 @@
       <source url="https://uxdesign.cc/feed">UX Collective</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
-      <link>https://news.ycombinator.com/item?id=50583761</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583761</guid>
-      <pubDate>Fri, 20 Nov 2026 23:18:32 GMT</pubDate>
-      <description>&lt;p&gt;I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.&lt;p&gt;In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.&lt;p&gt;At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?&lt;p&gt;If you have an alternative path (something completely different from SWE or SWE adjacent) that pays "well", I would like to hear.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50583761"&gt;https://news.ycombinator.com/item?id=50583761&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 722&lt;/p&gt;
-&lt;p&gt;# Comments: 819&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+      <title>[IxDF — UX Daily] Should You Choose between Responsive and Adaptive Design?</title>
+      <link>https://ixdf.org/literature/article/should-you-choose-between-responsive-and-adaptive-design</link>
+      <guid isPermaLink="true">https://ixdf.org/literature/article/should-you-choose-between-responsive-and-adaptive-design</guid>
+      <pubDate>Sat, 21 Nov 2026 12:00:00 GMT</pubDate>
+      <description>Designers can choose between adaptive and responsive design to bridge the gap between devices and changing user contexts. Here you’ll learn the merits of each approach, so you’re in a great position to select an approach for your project.&amp;nbsp;&amp;nbsp;What Are the Main Differences Between Responsive and Adaptive Design?Responsive design is, in theory, easier and less work to implement. However, responsive design requires good quality assurance to get it right. Responsive design is the standard or default to support device-switching.The adaptive design will, in theory, deliver the best user experience regardless of the device. Unlike responsive design, where the same design rearranges its layou...</description>
+      <category>Publicações internacionais</category>
+      <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
       <title>[Figma Blog] Workflow lab: Turning context into a plan with Specs and the Figma agent</title>
@@ -93,18 +98,6 @@
       <description>Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This workflow shows how Specs and the Figma agent provide a container for that context so implementation is easy.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Leaky AI supply chain is exposing secret user data at an alarming rate</title>
-      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
-      <pubDate>Fri, 20 Nov 2026 21:53:39 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"&gt;https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50582794"&gt;https://news.ycombinator.com/item?id=50582794&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 61&lt;/p&gt;
-&lt;p&gt;# Comments: 8&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Nielsen Norman Group] Qualitative User-Research Methods: An Overview</title>
@@ -193,18 +186,6 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] GIMP now has UI tests</title>
-      <link>https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</link>
-      <guid isPermaLink="true">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</guid>
-      <pubDate>Fri, 20 Nov 2026 04:00:24 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.gimp.org/news/2026/11/16/gimp-ui-tests/"&gt;https://www.gimp.org/news/2026/11/16/gimp-ui-tests/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50569985"&gt;https://news.ycombinator.com/item?id=50569985&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 162&lt;/p&gt;
-&lt;p&gt;# Comments: 141&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Nielsen Norman Group] UX Conference March Announced (Mar 1 - Mar 4)</title>
       <link>https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
       <guid isPermaLink="true">https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
@@ -223,18 +204,6 @@
       <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'</title>
-      <link>https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</guid>
-      <pubDate>Thu, 19 Nov 2026 22:56:59 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"&gt;https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50567735"&gt;https://news.ycombinator.com/item?id=50567735&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 71&lt;/p&gt;
-&lt;p&gt;# Comments: 21&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[UX Collective] Everyone’s got the tools. Not everyone’s got the tricks.</title>
       <link>https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/everyones-got-the-tools-not-everyone-s-got-the-tricks-986a5c154924?source=rss----138adf9c44c---4</guid>
@@ -251,6 +220,15 @@
       <description>A posição da lente, o tamanho do texto e um teste de poucos segundos ajudam a deixar a fala mais próxima de uma conversa. Gravar sozinho costuma significar alternar entre&amp;#8230;</description>
       <category>Brasil</category>
       <source url="https://www.designculture.com.br/feed">Design Culture</source>
+    </item>
+    <item>
+      <title>[IxDF — UX Daily] System Usability Scale for Data-Driven UX</title>
+      <link>https://ixdf.org/literature/article/system-usability-scale</link>
+      <guid isPermaLink="true">https://ixdf.org/literature/article/system-usability-scale</guid>
+      <pubDate>Thu, 19 Nov 2026 14:00:00 GMT</pubDate>
+      <description>Ever wondered how the top designers, researchers, and product developers manage to create products that are user-friendly, efficient, and enjoyable—consistently? One of the key things there is what’s called the System Usability Scale (SUS), a vital tool and questionnaire-based method that professionals use in user experience (UX) research and evaluation to see how usable a system or product is, through a series of standardized questions. It’s become a valuable tool in UX design, not least because of how it empowers designers, researchers, and others who work in UX to identify—and then act on—aspects that can improve the user-friendliness and overall quality of the digital platforms they desi...</description>
+      <category>Publicações internacionais</category>
+      <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
       <title>[UX Planet] How to Use Claude Code Effectively and Save Tokens</title>
@@ -355,43 +333,6 @@
       <description>From internet ephemera and fashion to found images, objects, and cultural oddities, Chase explores how the things around us can be pulled apart, recontextualized, and turned into something new.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Advancing chip design with OpenAI models</title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
-      <pubDate>Wed, 18 Nov 2026 17:45:47 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/advancing-chip-design-with-our-models/"&gt;https://openai.com/index/advancing-chip-design-with-our-models/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50549493"&gt;https://news.ycombinator.com/item?id=50549493&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 225&lt;/p&gt;
-&lt;p&gt;# Comments: 170&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Show HN: Mastra Factory, the open-source software factory we use to build Mastra</title>
-      <link>https://news.ycombinator.com/item?id=50548660</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50548660</guid>
-      <pubDate>Wed, 18 Nov 2026 16:53:42 GMT</pubDate>
-      <description>&lt;p&gt;Hi HN, we're Shane, Sam, and Abhi.&lt;p&gt;Almost two years ago, we shared Mastra, our open-source TypeScript agent framework, on Show HN: &lt;a href="https://news.ycombinator.com/item?id=43103073"&gt;https://news.ycombinator.com/item?id=43103073&lt;/a&gt;. It got a few hundred upvotes; a couple of weeks later our downloads had doubled, and we were off to the races.&lt;p&gt;Today we're sharing Mastra Factory, the open-source software factory we built to help maintain Mastra itself.&lt;p&gt;At Mastra, we now average nearly 4M downloads per week, and with Factory our team now merges hundreds of PRs a week across the mastra-ai GitHub org. Last week, Factory opened and merged 238 PRs, alongside 630 merged PRs from humans.&lt;p&gt;There's a lot of debate about what a software factory is. For us Factory is a configurable agentic kanban board that's @-taggable in Slack.&lt;p&gt;Under the hood, it uses Mastra’s durable agents for long-running sessions, our conversational memory system, a markdown based wiki with source citations to incorporate company knowledge, signals that subscribe to PR comments wired up into sessions, and a customizable cloud sandbox with our coding harness (working on supporting Claude Code, Codex etc).&lt;p&gt;When we started out, we modeled Factory around our existing workflow-oriented process (triage, plan, build, review, shipped). Three months later, we find ourselves mostly driving it through Slack vs a web UI.&lt;p&gt;We’ve seen more senior engineers kick off sessions in parallel (“triage the 20 oldest issues and let’s evaluate…”). We’re using bug and vuln scanners now, and we’ve closed our repo to outside contributors, asking folks to write detailed issue repros instead.&lt;p&gt;You can get started with `npm create factory`.&lt;p&gt;It’s fully open-source, so you can run it entirely on your infra (we also offer a hosted version). Comment here, we would love to know what you think!&lt;p&gt;&lt;a href="https://factory.mastra.ai"&gt;https://factory.mastra.ai&lt;/a&gt;&lt;p&gt;&lt;a href="https://github.com/mastra-ai/template-factory" rel="nofollow"&gt;https://github.com/mastra-ai/template-factory&lt;/a&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50548660"&gt;https://news.ycombinator.com/item?id=50548660&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 157&lt;/p&gt;
-&lt;p&gt;# Comments: 45&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Attackers Used Optimizely to A/B Test Malware on Top Websites</title>
-      <link>https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</link>
-      <guid isPermaLink="true">https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/</guid>
-      <pubDate>Wed, 18 Nov 2026 15:09:16 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/"&gt;https://krebsonsecurity.com/2026/11/attackers-used-optimizely-to-a-b-test-malware-on-top-websites/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50547236"&gt;https://news.ycombinator.com/item?id=50547236&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 57&lt;/p&gt;
-&lt;p&gt;# Comments: 26&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Design Culture] Jogos Vorazes: Amanhecer na Colheita – A beleza da manipulação política enquanto destrói um homem!</title>
@@ -603,16 +544,13 @@
       <source url="https://www.smashingmagazine.com/feed/">Smashing Magazine</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Windows 11 is collecting data on which coding agents and developer tools you use</title>
-      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-      <guid isPermaLink="true">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
-      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"&gt;https://xusheng.dev/posts/windows-coding-agent-telemetry/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50524736"&gt;https://news.ycombinator.com/item?id=50524736&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 737&lt;/p&gt;
-&lt;p&gt;# Comments: 624&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+      <title>[IxDF — UX Daily] Don Norman’s Top Tips from the Design for the 21st Century Course</title>
+      <link>https://ixdf.org/literature/article/don-norman-s-top-tips-from-the-design-for-the-21st-century-course</link>
+      <guid isPermaLink="true">https://ixdf.org/literature/article/don-norman-s-top-tips-from-the-design-for-the-21st-century-course</guid>
+      <pubDate>Tue, 17 Nov 2026 08:00:00 GMT</pubDate>
+      <description>The design field is evolving. It’s been proven that aside from driving business success and delivering beautiful and successful products, design can be pivotal to solving complex human issues. For instance, GE Healthcare used Design Thinking to improve the MR scanner experience for children—which is oftentimes very unpleasant—and patient satisfaction rates went up 90%. As a designer, you have the opportunity to leverage your skillset and apply your design know-how to tackle major global challenges, influence strategic decisions, and make a positive impact on the world.If you're looking to steer your career in a more meaningful direction and work on major global challenges, here are the top 4...</description>
+      <category>Publicações internacionais</category>
+      <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
       <title>[UX Planet] Information Visualization: 6 Essential Rules Every Designer Should Know</title>
@@ -622,18 +560,6 @@
       <description>&lt;figure&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/1*uJeRuxd1hdTuEC982NKl5g.png" /&gt;&lt;/figure&gt;&lt;h4&gt;How to turn complex data into clear, meaningful, and actionable visualizations&lt;/h4&gt;&lt;p&gt;We live in a world where organizations collect enormous amounts of data. But &lt;em&gt;collecting data&lt;/em&gt; and &lt;em&gt;understanding it&lt;/em&gt; are two very different things. And this problem becomes even more noticable in the context of dashboards that org create: a dashboard might contain dozens of charts and hundreds of data points, yet still fail to answer the fundamental question:&lt;/p&gt;&lt;blockquote&gt;&lt;em&gt;What should I do with this information?&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;And, unfortunately, with the rise of AI tools this problem becomes more and more important because data visualization design now is easier than ever, but not many people who create dashboards understand the principles behind good visualization.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;&lt;em&gt;Information visualization&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; &lt;/em&gt;is a discipline that aims to answer this question. In this article, I’ll explain what information visualization is and share 6 practical rules for creating effective information visualizations.&lt;/p&gt;&lt;h3&gt;What is information visualization?&lt;/h3&gt;&lt;p&gt;Information visualization is transforming complex data into visual representations that help people understand patterns, identify problems, and make better decisions.&lt;/p&gt;&lt;h3&gt;1. Start with the question, not the chart&lt;/h3&gt;&lt;p&gt;One of the most common mistakes designers make is focusing too much on visual appearance of data vis and forgetting functional purpose that it serves. As a result, they focus too much on selecting a chart type before &lt;em&gt;understanding what users actually need to know.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;For example, imagine you’re designing a sales dashboard. You have revenue data for the last 12 months. You could show it as a bar chart, a line chart, or a table. But the right choice depends on the question:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;em&gt;How much revenue did we generate?&lt;/em&gt; Show a prominent number.&lt;/li&gt;&lt;li&gt;&lt;em&gt;How has revenue changed over time?&lt;/em&gt; Use a line chart.&lt;/li&gt;&lt;li&gt;&lt;em&gt;Which product generates the most revenue?&lt;/em&gt; Use a ranked bar chart.&lt;/li&gt;&lt;li&gt;&lt;em&gt;Why is revenue declining?&lt;/em&gt; Show contributing factors such as cancellations, returns, or lower conversion rates.&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Thats why the first rule is so simple:&lt;/p&gt;&lt;blockquote&gt;Define the decision your visualization should support before choosing how to represent the data.&lt;/blockquote&gt;&lt;h3&gt;2. Design for human perception&lt;/h3&gt;&lt;p&gt;Good information visualization is based on how the human brain processes visual information. Our brain can quickly recognize differences in position, length, size, and color. Designers can use these properties to help people identify important information without consciously examining every data point.&lt;/p&gt;&lt;p&gt;For example, imagine a dashboard with 20 indicators. If every indicator has the same visual weight, users need to examine each one to find what’s important. But if the two most critical metrics are larger and visually prominent, users can immediately focus on them.&lt;/p&gt;&lt;p&gt;You can also apply Gestalt principles, such as proximity and similarity, to group related information.&lt;/p&gt;&lt;blockquote&gt;Use visual hierarchy, grouping, and contrast to direct attention toward information that matters.&lt;/blockquote&gt;&lt;h3&gt;3. Choose the right visual representation&lt;/h3&gt;&lt;p&gt;Not all charts are equally effective at communicating a particular type of information:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;A pie chart can communicate simple proportions, but it becomes difficult to interpret when it contains too many segments.&lt;/li&gt;&lt;li&gt;A bar chart is usually more effective when users need to compare values across categories.&lt;/li&gt;&lt;li&gt;A line chart works well for showing changes over time.&lt;/li&gt;&lt;li&gt;And a network diagram helps visualize relationships between connected entities.&lt;/li&gt;&lt;/ul&gt;&lt;figure&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/1*pQvMu4U1AEzuV5xRGXS_hQ.png" /&gt;&lt;figcaption&gt;Not all charts are equally effective&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;You need to match the visualization to the &lt;em&gt;structure of the data and the task users need to perform.&lt;/em&gt;&lt;/p&gt;&lt;blockquote&gt;Choose charts based on what insights users need to extract from data, not on which visualization looks most impressive.&lt;/blockquote&gt;&lt;h3&gt;4. Reduce information overload&lt;/h3&gt;&lt;p&gt;One of the biggest problems with modern systems (including dashboards) is that designers try to display everything at once. But more data doesn’t necessarily produce better insights.&lt;/p&gt;&lt;p&gt;The signals often result in complete for human attention.&lt;/p&gt;&lt;p&gt;A better approach is to information priorization and, if you need to provide more information, use progressive disclosure (aka offer additional details on demand).&lt;/p&gt;&lt;p&gt;The approach I follow is simple:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;Start by presenting the most important information up front.&lt;/li&gt;&lt;li&gt;Then allow users to explore additional details when necessary.&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;For example, a revenue dashboard might initially display three key metrics: Total revenue, Net profit and Revenue growth. Give users an option to drill down into specific regions, products, or time periods.&lt;/p&gt;&lt;p&gt;Another important consideration is removing &lt;strong&gt;chartjunk (&lt;/strong&gt;decorative visual elements that don’t improve understanding).&lt;/p&gt;&lt;figure&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/1*93zR440dR4j1zdoBHz7oNg.png" /&gt;&lt;figcaption&gt;Example of chartjunk.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Unnecessary 3D effects, heavy gradients, excessive gridlines, and decorative illustrations can make visualizations harder to read.&lt;/p&gt;&lt;blockquote&gt;Every visual element should contribute to understanding the data. If it doesn’t, consider removing it.&lt;/blockquote&gt;&lt;h3&gt;5. Make visualizations interactive when necessary&lt;/h3&gt;&lt;p&gt;Static charts are useful when everyone needs to see the same information. But when users have different questions or need to investigate complex data, interaction becomes valuable.&lt;/p&gt;&lt;p&gt;For example, an interactive sales dashboard might allow users to:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Filter revenue by product category.&lt;/li&gt;&lt;li&gt;Compare performance across different periods.&lt;/li&gt;&lt;li&gt;Drill down into individual transactions.&lt;/li&gt;&lt;li&gt;Explore relationships between multiple metrics.&lt;/li&gt;&lt;/ul&gt;&lt;figure&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/1*Y0W_dumT4M4qHI5ze_c9Cg.gif" /&gt;&lt;figcaption&gt;Basic progressive disclosure: contextual window with details displayed on mouse hover.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;But similar to any design decision, interaction should &lt;em&gt;always&lt;/em&gt; serve a clear purpose. If you add dozens of filters and controls assuming users will need, can easily create more complexity than value.&lt;/p&gt;&lt;blockquote&gt;Introduce interaction when it helps users answer questions that a static visualization cannot.&lt;/blockquote&gt;&lt;h3&gt;6. Evaluate whether your visualization actually works&lt;/h3&gt;&lt;blockquote&gt;You are not your user ©&lt;/blockquote&gt;&lt;p&gt;A visualization that looks perfectly clear to you (its creator) can be confusing to everyone else. That’s why evaluation is an essential part of the design process.&lt;/p&gt;&lt;p&gt;You don’t necessarily need a large usability study to identify problems.&lt;/p&gt;&lt;p&gt;Start by showing your visualization to a few people (2–3 people who represent your target audience)&lt;/p&gt;&lt;p&gt;Ask them questions such as:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;What is the most important information on this screen?&lt;/li&gt;&lt;li&gt;What conclusions can you draw from this chart?&lt;/li&gt;&lt;li&gt;Can you identify any unusual trends?&lt;/li&gt;&lt;li&gt;What action would you take based on this information?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Pay attention to whether users interpret the visualization correctly, how quickly they find answers, and where they struggle.&lt;/p&gt;&lt;blockquote&gt;Don’t evaluate visualizations solely; evaluate how effectively it works for your target audience&lt;/blockquote&gt;&lt;h3&gt;Want to master information visualization?&lt;/h3&gt;&lt;p&gt;If you want to go beyond the basics, I recommend exploring the &lt;a href="https://ixdf.org/courses/information-visualization-infovis?ep=ux-planet"&gt;&lt;strong&gt;Information Visualization course by the Interaction Design Foundation (IxDF)&lt;/strong&gt;&lt;/a&gt;. The course covers human visual perception and memory, Gestalt principles, visual mapping, advanced techniques for representing complex data, and methods for evaluating visualizations.&lt;/p&gt;&lt;p&gt;&lt;a href="https://ixdf.org/courses/information-visualization-infovis?ep=ux-planet"&gt;Information Visualization Course&lt;/a&gt;&lt;/p&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=b1a13ddd4b66" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://uxplanet.org/information-visualization-6-essential-rules-every-designer-should-know-b1a13ddd4b66"&gt;Information Visualization: 6 Essential Rules Every Designer Should Know&lt;/a&gt; was originally published in &lt;a href="https://uxplanet.org"&gt;UX Planet&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxplanet.org/feed">UX Planet</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Just 400 US Data Centers Use More Electricity Than Michigan</title>
-      <link>https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/</link>
-      <guid isPermaLink="true">https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/</guid>
-      <pubDate>Mon, 16 Nov 2026 18:04:55 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/"&gt;https://www.wired.com/story/data-centers-use-more-electricity-than-michigan/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50520697"&gt;https://news.ycombinator.com/item?id=50520697&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 95&lt;/p&gt;
-&lt;p&gt;# Comments: 104&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Figma Blog] How 1Password uses Figma Make to design for trust and certainty</title>
@@ -685,15 +611,6 @@ especially for a one-person research function?&lt;/li&gt;
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
     </item>
     <item>
-      <title>[UX Collective 🇧🇷 (newsletter)] Sobre o futuro do UX Design, deixar de ser júnior, e Backrooms do Design System</title>
-      <link>https://brasiluxdesign.substack.com/p/sobre-o-futuro-do-ux-design-deixar</link>
-      <guid isPermaLink="true">https://brasiluxdesign.substack.com/p/sobre-o-futuro-do-ux-design-deixar</guid>
-      <pubDate>Mon, 16 Nov 2026 09:59:30 GMT</pubDate>
-      <description>Curadoria semanal para designers &amp;#8212; que pensam e criam.</description>
-      <category>Brasil</category>
-      <source url="https://brasiluxdesign.substack.com/feed">UX Collective 🇧🇷 (newsletter)</source>
-    </item>
-    <item>
       <title>[UX Collective 🇧🇷 (artigos)] Tokens infinitos: a nova ostentação do clube de golfe</title>
       <link>https://brasil.uxdesign.cc/tokens-infinitos-a-nova-ostenta%C3%A7%C3%A3o-do-clube-de-golfe-ef4d235f2a06?source=rss----6f71781500a4---4</link>
       <guid isPermaLink="true">https://brasil.uxdesign.cc/tokens-infinitos-a-nova-ostenta%C3%A7%C3%A3o-do-clube-de-golfe-ef4d235f2a06?source=rss----6f71781500a4---4</guid>
@@ -726,18 +643,6 @@ especially for a one-person research function?&lt;/li&gt;
 &lt;p&gt;Any help will be appreciated.&lt;/p&gt;</description>
       <category>Fóruns e debates</category>
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Italy fines Meta $887M over Android users' data access</title>
-      <link>https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</guid>
-      <pubDate>Sat, 14 Nov 2026 13:48:06 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"&gt;https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50497009"&gt;https://news.ycombinator.com/item?id=50497009&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 408&lt;/p&gt;
-&lt;p&gt;# Comments: 313&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Figma Blog] AI’s role in the creative process</title>
@@ -906,18 +811,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <source url="https://www.designculture.com.br/feed">Design Culture</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Open research, stronger privacy: Making Firefox users harder to fingerprint</title>
-      <link>https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</link>
-      <guid isPermaLink="true">https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/</guid>
-      <pubDate>Wed, 11 Nov 2026 12:44:06 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/"&gt;https://blog.mozilla.org/security/2026/11/10/open-research-stronger-privacy-making-firefox-users-harder-to-fingerprint/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50452742"&gt;https://news.ycombinator.com/item?id=50452742&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 180&lt;/p&gt;
-&lt;p&gt;# Comments: 73&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[IxDF — UX Daily] Black Friday 2024: Invest in UX Design Education</title>
       <link>https://ixdf.org/literature/article/black-friday-2021-invest-in-ux-design-education</link>
       <guid isPermaLink="true">https://ixdf.org/literature/article/black-friday-2021-invest-in-ux-design-education</guid>
@@ -934,18 +827,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>You've heard about AI and all the wonderful (and sometimes scary) possibilities. But unlike sci-fi apocalyptic movies, AI isn't out to destroy humanity. Let's take a look at the challenges and opportunities we face as AI meets design.In this video, Ioana Teleanu, Founder of UX Goodies and former Lead Product Designer (AI) at Miro, talks about the impact of AI on design from two perspectives: “Designing for AI” products and “Designing with AI”.[[video:1659]]How AI is Changing the WorldAI is already reshaping our world, from its profound influence on healthcare and education to its transformative impact on transportation and agriculture:Chatbots are commonplace, AI-generated art is everywhere,...</description>
       <category>Publicações internacionais</category>
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] A comprehensive study of how fingerprintable users are</title>
-      <link>https://fingerprinting.study/</link>
-      <guid isPermaLink="true">https://fingerprinting.study/</guid>
-      <pubDate>Tue, 10 Nov 2026 19:03:54 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://fingerprinting.study/"&gt;https://fingerprinting.study/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50444684"&gt;https://news.ycombinator.com/item?id=50444684&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 135&lt;/p&gt;
-&lt;p&gt;# Comments: 73&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Design Culture] Holy Studio conquista ouro no Prêmio Bornancini com embalagem de bourbon americano</title>
@@ -975,18 +856,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] AI Users have workdays up to 90 min longer than non-users</title>
-      <link>https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/</link>
-      <guid isPermaLink="true">https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/</guid>
-      <pubDate>Tue, 10 Nov 2026 12:57:24 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/"&gt;https://www.activtrak.com/news/productivity-lab-ai-users-longer-workdays/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50439686"&gt;https://news.ycombinator.com/item?id=50439686&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 67&lt;/p&gt;
-&lt;p&gt;# Comments: 27&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[IxDF — UX Daily] Who, What, and How: Design Maps Show You the Way for Implementation</title>
       <link>https://ixdf.org/literature/article/how-to-create-design-maps</link>
       <guid isPermaLink="true">https://ixdf.org/literature/article/how-to-create-design-maps</guid>
@@ -1003,30 +872,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>The design industry is rapidly evolving with the integration of technologies such as artificial intelligence (AI) and 3D printing. While there may be concerns about job displacement, history has demonstrated that new technologies typically create more job opportunities. Don Norman, author of The Design of Everyday Things and a pioneer in the field of user experience, offers insights into the bright future of design.[[video:1443]]The Take AwayDesign is rapidly evolving due to technological advancements. The COVID-19 pandemic accelerated this change as people embraced new work methods, like video conferencing and other communication tools that revolutionized workplaces. Technology's impact on...</description>
       <category>Publicações internacionais</category>
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Ultorg: The User Interface for Relational Databases</title>
-      <link>https://www.ultorg.com/</link>
-      <guid isPermaLink="true">https://www.ultorg.com/</guid>
-      <pubDate>Tue, 10 Nov 2026 03:59:39 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.ultorg.com/"&gt;https://www.ultorg.com/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50435898"&gt;https://news.ycombinator.com/item?id=50435898&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 157&lt;/p&gt;
-&lt;p&gt;# Comments: 62&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Exact – a new cross platform UI framework</title>
-      <link>https://github.com/expo/exact</link>
-      <guid isPermaLink="true">https://github.com/expo/exact</guid>
-      <pubDate>Mon, 09 Nov 2026 22:59:13 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://github.com/expo/exact"&gt;https://github.com/expo/exact&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50433541"&gt;https://news.ycombinator.com/item?id=50433541&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 137&lt;/p&gt;
-&lt;p&gt;# Comments: 121&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Design Culture] Gravações da Semana do Design Itaú 2026 já estão liberadas</title>
@@ -1047,18 +892,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] CUI – Native UI components for C</title>
-      <link>https://yappologistic.github.io/CUI/</link>
-      <guid isPermaLink="true">https://yappologistic.github.io/CUI/</guid>
-      <pubDate>Mon, 09 Nov 2026 19:35:16 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://yappologistic.github.io/CUI/"&gt;https://yappologistic.github.io/CUI/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50430621"&gt;https://news.ycombinator.com/item?id=50430621&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 180&lt;/p&gt;
-&lt;p&gt;# Comments: 101&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Lobsters — tag design] I was wrong about dark mode</title>
       <link>https://dbushell.com/2026/11/09/dark-mode/</link>
       <guid isPermaLink="true">https://dbushell.com/2026/11/09/dark-mode/</guid>
@@ -1075,15 +908,6 @@ HCI or qualitative methods, that I can cite?&lt;/li&gt;
       <description>&lt;h4&gt;Sobre identidade, amadurecimento, mundo corporativo e a tentativa de não me levar tão a sério (quando tudo parece exigir o contrário).&lt;/h4&gt;&lt;figure&gt;&lt;img alt="Ilustração com fundo texturizado em tom terracota, com sete desenhos pegadas estilizadas, contornadas em preto e preenchidas com detalhes em amarelo, bege e branco. Ao centro, a frase manuscrita em inglês: “The path reveals itself only to those who move” (O caminho se revela apenas àqueles que se movimentam)." src="https://cdn-images-1.medium.com/max/1024/1*mwXXmzZEsHIHTQpYdenH8A.jpeg" /&gt;&lt;figcaption&gt;Arte: Manothini Dupuis — &lt;a href="https://www.instagram.com/manothiniii"&gt;@manothiniii&lt;/a&gt;&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Escrever sobre quem sou como designer talvez seja, antes de tudo, uma tentativa de entender quem sou para &lt;em&gt;além&lt;/em&gt; do trabalho. Quando olho para os textos que escrevi nos últimos anos, percebo que, mesmo quando o assunto &lt;em&gt;parecia&lt;/em&gt; ser design, estava tentando elaborar algo sobre mim.&lt;/p&gt;&lt;p&gt;Em 2022, escrevi sobre a possibilidade de &lt;a href="https://brasil.uxdesign.cc/como-seria-se-n%C3%A3o-peg%C3%A1ssemos-palavras-estrangeiras-em-ux-8f83cc465c9f"&gt;aportuguesar o design&lt;/a&gt; e questionar os termos em inglês que usamos no dia a dia. No mesmo ano, falei sobre os &lt;a href="https://brasil.uxdesign.cc/hackeando-oportunidades-atrav%C3%A9s-de-ux-f3272501ba29"&gt;desafios de começar uma carreira em UX sendo mulher&lt;/a&gt; e morando na periferia. Em 2023, escrevi sobre &lt;a href="https://brasil.uxdesign.cc/sobre-referencias-femininas-ou-a-falta-delas-820105555db1"&gt;referências femininas&lt;/a&gt; — ou a falta delas — e sobre a relação entre &lt;a href="https://brasil.uxdesign.cc/quando-voc%C3%AA-%C3%A9-o-seu-trabalho-1e3d5362524d"&gt;identidade e trabalho&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;Na época, talvez eu ainda não percebesse, mas aqueles textos eram registros de alguém tentando encontrar seu lugar no mundo profissional. Eu estava construindo uma carreira, aprendendo a me reconhecer nela e, de alguma maneira, tentando entender o que significava ser a pessoa que estava me tornando.&lt;/p&gt;&lt;p&gt;Depois de 2023, parei de escrever, mas muita coisa aconteceu nesse intervalo. Passei por diferentes experiências profissionais, amadureci e acumulei repertório. Se antes estava aprendendo a entrar no mercado, agora precisava entender como permanecer nele sem necessariamente me perder no caminho.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;A colcha de retalhos&lt;/h3&gt;&lt;p&gt;Em algum momento, comecei a pensar na identidade profissional como uma espécie de “colcha de retalhos”. Não somos uma coisa só, e talvez seja justamente aí que comece boa parte da confusão.&lt;/p&gt;&lt;p&gt;Gosto de pensar em cinco versões que convivem no ambiente de trabalho:&lt;/p&gt;&lt;ol&gt;&lt;li&gt;&lt;strong&gt;Quem sou fora do trabalho: &lt;/strong&gt;a pessoa que existe para além das entregas, reuniões, prazos e responsabilidades. Essa versão não deveria ser tão diferente daquela que aparece no expediente, embora nem sempre seja possível conciliar as duas.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Quem sou no trabalho: &lt;/strong&gt;a profissional que construí ao longo da carreira. Aqui vale perguntar o que faço por necessidade, o que faço porque surgiu uma oportunidade e o que realmente escolho fazer porque gosto.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Como sou vista: &lt;/strong&gt;a percepção que outras pessoas têm sobre mim. Nem sempre existe correspondência entre o que entrego, o que consigo comunicar e o que os outros reconhecem.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Quem quero ser:&lt;/strong&gt; minhas expectativas de desenvolvimento no curto, médio e longo prazo. Não apenas em relação ao cargo, mas também ao tipo de profissional e de pessoa que desejo me tornar.&lt;/li&gt;&lt;li&gt;&lt;strong&gt;Quem esperam que eu seja:&lt;/strong&gt; as expectativas externas. Às vezes, são pedidos legítimos de desenvolvimento, como melhorar a comunicação. Em outras, são exigências que ultrapassam o escopo, a senioridade ou até o combinado durante uma contratação.&lt;br /&gt;­&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;Essas versões nem sempre conversam entre si.&lt;/p&gt;&lt;p&gt;Às vezes, existe um conflito entre quem sou, quem quero ser e quem esperam que eu seja. Tenho tentado lembrar que, quando a distância entre essas partes se torna grande demais, talvez o problema não esteja necessariamente em mim. Talvez aquele ambiente simplesmente não seja o lugar certo.&lt;/p&gt;&lt;p&gt;Isso não significa que todo desconforto seja um sinal de que precisamos ir embora. Crescer também envolve atravessar situações difíceis, rever comportamentos e reconhecer nossas limitações. Mas existe uma diferença entre se desenvolver e passar tanto tempo tentando caber em um lugar que já não permite que você se reconheça.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;1 passo para trás, para depois dar 2 à frente&lt;/h3&gt;&lt;p&gt;Por muito tempo, enxerguei minha evolução profissional como uma escada: aprender ferramentas, aprimorar a execução, desenvolver senso crítico, ganhar autonomia e, finalmente, construir repertório suficiente para tomar decisões com mais segurança. A experiência parecia nos conduzir naturalmente a um lugar de maior domínio sobre a profissão.&lt;/p&gt;&lt;p&gt;A chegada da IA bagunçou um pouco essa lógica. Algumas habilidades que levei anos para desenvolver passaram a ser automatizadas, enquanto novas ferramentas surgem em uma velocidade difícil de acompanhar.&lt;/p&gt;&lt;p&gt;Nesse cenário, tenho pensado que talvez &lt;strong&gt;precisemos aprender a dar alguns passos para trás&lt;/strong&gt;. Não para desconsiderar a experiência que acumulamos, mas para recuperar a disposição de experimentar sem saber exatamente onde vamos chegar, fazer perguntas, errar e nos permitir descobrir coisas novas.&lt;/p&gt;&lt;p&gt;A IA também nos convida a &lt;strong&gt;repensar nossa relação com o design&lt;/strong&gt; e, de certa forma, a &lt;strong&gt;nos reapaixonar pela profissão&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Em meio à facilidade de produzir interfaces, vemos soluções cada vez mais semelhantes, enquanto o encantamento de criar experiências parece dar lugar à preocupação em produzir mais, melhor e mais rápido.&lt;/p&gt;&lt;blockquote&gt;Talvez uma habilidade cada vez mais importante seja justamente &lt;strong&gt;construir repertório&lt;/strong&gt;, &lt;strong&gt;reconhecer qualidade&lt;/strong&gt;, &lt;strong&gt;fazer conexões inesperadas&lt;/strong&gt; e &lt;strong&gt;cultivar um olhar próprio sobre o mundo&lt;/strong&gt;.&lt;/blockquote&gt;&lt;p&gt;Se a IA amplia nossa capacidade de produzir, precisamos ampliar também nossa capacidade de questionar, selecionar e atribuir significado ao que criamos.&lt;/p&gt;&lt;p&gt;Talvez o equilíbrio esteja justamente aí: preservar a curiosidade de quem está começando, voltar a experimentar, questionar e explorar o novo, mas sem abrir mão do repertório que construímos ao longo do caminho. Afinal, é ele que nos permite utilizar novas ferramentas com intenção, discernimento e senso crítico.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;A mente que observa a mente&lt;/h3&gt;&lt;p&gt;Se desenvolver um olhar crítico sobre aquilo que produzimos é parte do nosso amadurecimento como designers, talvez também possamos direcionar esse mesmo olhar para a maneira como nos enxergamos.&lt;/p&gt;&lt;p&gt;Afinal, não são apenas nossas ferramentas, habilidades e referências que estão em constante transformação. Nossa percepção sobre nós também muda com o tempo.&lt;/p&gt;&lt;p&gt;Nos últimos tempos, tenho tentado observar as diferentes visões de mim com um pouco mais de distância. Perceber quando estou tentando corresponder às expectativas dos outros, quando me prendo à imagem que construí de mim mesma ou quando começo a confundir minhas realizações com meu próprio valor.&lt;/p&gt;&lt;p&gt;É como se pudesse dar um passo para trás e observar até mesmo a maneira como penso sobre mim. Não para encontrar uma identidade mais verdadeira por trás de todas as outras, mas para experimentar a possibilidade de não precisar me definir por nenhuma delas.&lt;/p&gt;&lt;p&gt;Posso ser designer, me dedicar ao que faço, reconhecer minhas conquistas, desejar crescer e até me frustrar com determinadas experiências sem precisar transformar tudo isso em uma medida do meu próprio valor.&lt;/p&gt;&lt;p&gt;Talvez uma das coisas mais importantes que eu esteja aprendendo seja justamente essa: &lt;strong&gt;me envolver profundamente com aquilo que faço sem precisar me confundir &lt;em&gt;com&lt;/em&gt; isso.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Continuar sem precisar chegar&lt;/h3&gt;&lt;p&gt;Acho que quem sou como designer hoje é um pouco de tudo o que vivi e escrevi até aqui.&lt;/p&gt;&lt;p&gt;Das primeiras experiências profissionais às mais recentes, das dúvidas sobre pertencimento às descobertas sobre o trabalho, das ferramentas que aprendi a utilizar às ideias que ainda estou tentando compreender.&lt;/p&gt;&lt;p&gt;O mercado vai continuar mudando, novas ferramentas vão surgir, as expectativas vão se transformar e eu provavelmente vou continuar tendo dúvidas. Tudo bem.&lt;/p&gt;&lt;p&gt;É justamente isso que muda quando deixamos de ser júnior: entendemos que amadurecer não significa ter todas as respostas, &lt;strong&gt;e sim confiar mais na nossa capacidade de fazer as perguntas certas&lt;/strong&gt;.&lt;/p&gt;&lt;h4&gt;Referências&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://www.nngroup.com/articles/stages-of-ux-career-progression/?lm=break-into-design&amp;amp;pt=youtubevideo&amp;amp;utm_source=chatgpt.com"&gt;The 5 Stages of UX-Career Progression&lt;/a&gt; — Nielsen Norman Group&lt;/li&gt;&lt;li&gt;&lt;a href="https://brasil.uxdesign.cc/os-7-n%C3%ADveis-do-craft-de-design-e-como-alcan%C3%A7ar-o-pr%C3%B3ximo-b7c81c37cce2"&gt;Os 7 níveis do craft de design — e como alcançar o próximo&lt;/a&gt; — &lt;a href="https://medium.com/u/50e39baefa55"&gt;Fabricio Teixeira&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://brasil.uxdesign.cc/designers-perdemos-o-gosto-21cdcaa0d719"&gt;Designers, perdemos o gosto&lt;/a&gt; — &lt;a href="https://medium.com/u/c499e135d000"&gt;Frota&lt;/a&gt;&lt;br /&gt;­&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;&lt;strong&gt;Da autora:&lt;/strong&gt;&lt;/p&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://brasil.uxdesign.cc/como-seria-se-n%C3%A3o-peg%C3%A1ssemos-palavras-estrangeiras-em-ux-8f83cc465c9f"&gt;E se aportuguesássemos o design?&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://brasil.uxdesign.cc/hackeando-oportunidades-atrav%C3%A9s-de-ux-f3272501ba29"&gt;Hackeando oportunidades através de UX&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://brasil.uxdesign.cc/sobre-referencias-femininas-ou-a-falta-delas-820105555db1"&gt;Sobre referências femininas (ou a falta delas)&lt;/a&gt;&lt;/li&gt;&lt;li&gt;&lt;a href="https://brasil.uxdesign.cc/quando-voc%C3%AA-%C3%A9-o-seu-trabalho-1e3d5362524d"&gt;Quando você é o seu trabalho&lt;/a&gt;&lt;/li&gt;&lt;/ul&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=53d68a08d143" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/quem-sou-eu-como-designer-53d68a08d143"&gt;O que muda quando deixamos de ser júnior?&lt;/a&gt; was originally published in &lt;a href="https://brasil.uxdesign.cc"&gt;UX Collective 🇧🇷&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
       <category>Brasil</category>
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
-    </item>
-    <item>
-      <title>[UX Collective 🇧🇷 (newsletter)] Sobre a infantilização do design, inclusão em escala, e todo mundo tem uma perguntinha rápida</title>
-      <link>https://brasiluxdesign.substack.com/p/sobre-a-infantilizacao-do-design</link>
-      <guid isPermaLink="true">https://brasiluxdesign.substack.com/p/sobre-a-infantilizacao-do-design</guid>
-      <pubDate>Mon, 09 Nov 2026 09:59:27 GMT</pubDate>
-      <description>Curadoria semanal para designers &amp;#8212; que pensam e criam.</description>
-      <category>Brasil</category>
-      <source url="https://brasiluxdesign.substack.com/feed">UX Collective 🇧🇷 (newsletter)</source>
     </item>
     <item>
       <title>[UX Collective 🇧🇷 (artigos)] Sobre a infantilização do design, inclusão em escala, e todo mundo tem uma perguntinha rápida</title>
