@@ -5,7 +5,7 @@
     <link>https://ffinha.github.io/agregador-ux/feed.xml</link>
     <description>Feed agregado de publicações e fóruns de UI/UX (Brasil e internacional).</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 26 Nov 2026 00:27:18 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 10:58:35 GMT</lastBuildDate>
     <item>
       <title>[Design Culture] O Ser Querido: O nepotismo na sétima arte em meio a um drama familiar pesado!</title>
       <link>https://designculture.com.br/o-ser-querido-o-nepotismo-na-setima-arte-em-meio-a-um-drama-familiar-pesado/</link>
@@ -34,18 +34,6 @@
       <source url="https://uxdesign.cc/feed">UX Collective</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] The New York Times tells photographers not to use the latest Photoshop</title>
-      <link>https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</link>
-      <guid isPermaLink="true">https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/</guid>
-      <pubDate>Wed, 25 Nov 2026 21:18:02 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/"&gt;https://www.dpreview.com/news/new-york-times-adobe-photoshop-2027-restriction-ai/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50647673"&gt;https://news.ycombinator.com/item?id=50647673&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 151&lt;/p&gt;
-&lt;p&gt;# Comments: 83&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Lobsters — tag design] mockitdown examples - user-interface mockup language like SwiftUI</title>
       <link>https://bbogovich.github.io/mockitdown/demos/</link>
       <guid isPermaLink="true">https://bbogovich.github.io/mockitdown/demos/</guid>
@@ -62,18 +50,6 @@
       <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/2259/1*0wx4pIXe63UEeAosXQcHYA.png" width="2259" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;AI has dramatically reduced the amount of time it takes to write code. But writing code is only one part of shipping a product.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4"&gt;Continue reading on UX Planet »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxplanet.org/feed">UX Planet</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Investigating degraded experiences across GitHub products</title>
-      <link>https://www.githubstatus.com/incidents/qn8mfv6q5hlx</link>
-      <guid isPermaLink="true">https://www.githubstatus.com/incidents/qn8mfv6q5hlx</guid>
-      <pubDate>Wed, 25 Nov 2026 15:59:23 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.githubstatus.com/incidents/qn8mfv6q5hlx"&gt;https://www.githubstatus.com/incidents/qn8mfv6q5hlx&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50643720"&gt;https://news.ycombinator.com/item?id=50643720&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 178&lt;/p&gt;
-&lt;p&gt;# Comments: 97&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Codrops] Brice Deguigne ’26: A Three.js and WebGPU 3D Portfolio Built Like a Simulation</title>
@@ -153,18 +129,6 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Smart people who give a shit use tools</title>
-      <link>https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</link>
-      <guid isPermaLink="true">https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</guid>
-      <pubDate>Wed, 25 Nov 2026 07:46:43 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"&gt;https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50639698"&gt;https://news.ycombinator.com/item?id=50639698&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 265&lt;/p&gt;
-&lt;p&gt;# Comments: 202&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[UX Collective] Futures thinking as an everyday design practice</title>
       <link>https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4</guid>
@@ -226,18 +190,6 @@
       <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/1920/1*yrKkLri02dOVZkMwF1iI4g.jpeg" width="1920" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;Why reflective thinking in and on design action, not faster execution, is our real edge in the age of AI.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4"&gt;Continue reading on UX Collective »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxdesign.cc/feed">UX Collective</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] GPT-6 models demonstrate intrinsic protein-design capabilities</title>
-      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
-      <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
-      <pubDate>Tue, 24 Nov 2026 21:02:22 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"&gt;https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50634658"&gt;https://news.ycombinator.com/item?id=50634658&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 350&lt;/p&gt;
-&lt;p&gt;# Comments: 96&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Lobsters — tag design] metro: The Documentary on Microsoft's Boldest Design</title>
@@ -326,30 +278,6 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Declare is a UI language for you and your AI</title>
-      <link>https://davidtemkin.github.io/declarelang/</link>
-      <guid isPermaLink="true">https://davidtemkin.github.io/declarelang/</guid>
-      <pubDate>Tue, 24 Nov 2026 02:36:56 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://davidtemkin.github.io/declarelang/"&gt;https://davidtemkin.github.io/declarelang/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50622854"&gt;https://news.ycombinator.com/item?id=50622854&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 115&lt;/p&gt;
-&lt;p&gt;# Comments: 94&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity</title>
-      <link>https://www.science.org/doi/10.1126/scisignal.aef1375</link>
-      <guid isPermaLink="true">https://www.science.org/doi/10.1126/scisignal.aef1375</guid>
-      <pubDate>Tue, 24 Nov 2026 00:53:46 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.science.org/doi/10.1126/scisignal.aef1375"&gt;https://www.science.org/doi/10.1126/scisignal.aef1375&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50621977"&gt;https://news.ycombinator.com/item?id=50621977&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 107&lt;/p&gt;
-&lt;p&gt;# Comments: 82&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[UX Collective] Is product design a people industry or a tech industry?</title>
       <link>https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/is-product-design-a-people-industry-or-a-tech-industry-b8f9acc8cb6d?source=rss----138adf9c44c---4</guid>
@@ -393,18 +321,6 @@
       <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/1802/1*V_YIl-fH__lWR8Jo4Q0bHA.png" width="1802" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;Anthropic recently added a major set of new features to Claude Code that change how it works.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4"&gt;Continue reading on UX Planet »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxplanet.org/feed">UX Planet</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] An Italian folding bicycle design that fits into a suitcase</title>
-      <link>https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase</link>
-      <guid isPermaLink="true">https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase</guid>
-      <pubDate>Mon, 23 Nov 2026 12:40:08 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"&gt;https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50610820"&gt;https://news.ycombinator.com/item?id=50610820&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 213&lt;/p&gt;
-&lt;p&gt;# Comments: 164&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Codrops] Black Friday 2026: 10 Deals for Web Designers and Front-End Developers</title>
@@ -514,19 +430,6 @@
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
-      <link>https://news.ycombinator.com/item?id=50583761</link>
-      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583761</guid>
-      <pubDate>Fri, 20 Nov 2026 23:18:32 GMT</pubDate>
-      <description>&lt;p&gt;I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.&lt;p&gt;In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.&lt;p&gt;At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?&lt;p&gt;If you have an alternative path (something completely different from SWE or SWE adjacent) that pays "well", I would like to hear.&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50583761"&gt;https://news.ycombinator.com/item?id=50583761&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 754&lt;/p&gt;
-&lt;p&gt;# Comments: 863&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Figma Blog] Workflow lab: Turning context into a plan with Specs and the Figma agent</title>
       <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
       <guid isPermaLink="true">https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</guid>
@@ -534,18 +437,6 @@
       <description>Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This workflow shows how Specs and the Figma agent provide a container for that context so implementation is easy.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Leaky AI supply chain is exposing secret user data at an alarming rate</title>
-      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
-      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
-      <pubDate>Fri, 20 Nov 2026 21:53:39 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"&gt;https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50582794"&gt;https://news.ycombinator.com/item?id=50582794&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 71&lt;/p&gt;
-&lt;p&gt;# Comments: 8&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Nielsen Norman Group] Qualitative User-Research Methods: An Overview</title>
@@ -643,18 +534,6 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] GIMP now has UI tests</title>
-      <link>https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</link>
-      <guid isPermaLink="true">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</guid>
-      <pubDate>Fri, 20 Nov 2026 04:00:24 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.gimp.org/news/2026/11/16/gimp-ui-tests/"&gt;https://www.gimp.org/news/2026/11/16/gimp-ui-tests/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50569985"&gt;https://news.ycombinator.com/item?id=50569985&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 162&lt;/p&gt;
-&lt;p&gt;# Comments: 141&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Nielsen Norman Group] UX Conference March Announced (Mar 1 - Mar 4)</title>
       <link>https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</link>
       <guid isPermaLink="true">https://www.nngroup.com/training/nov-asia-au/?utm_source=rss&amp;utm_medium=feed&amp;utm_campaign=rss-syndication</guid>
@@ -671,18 +550,6 @@
       <description>Take up to 5 in-depth training courses, teaching user experience best practices for successful design. Courses focused on long-lasting skills for UX professionals. February 22 - February 26, 2027.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.nngroup.com/feed/rss/">Nielsen Norman Group</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Court: 4th Amendment Disallows Use Of AI-Generated 'Probable Cause'</title>
-      <link>https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</link>
-      <guid isPermaLink="true">https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/</guid>
-      <pubDate>Thu, 19 Nov 2026 22:56:59 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/"&gt;https://www.techdirt.com/2026/11/19/court-tells-cops-that-the-4th-amendment-doesnt-cover-ai-generated-probable-cause/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50567735"&gt;https://news.ycombinator.com/item?id=50567735&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 72&lt;/p&gt;
-&lt;p&gt;# Comments: 21&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Design Culture] Como gravar vídeos no celular lendo um roteiro com naturalidade</title>
@@ -730,18 +597,6 @@
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Advancing chip design with OpenAI models</title>
-      <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
-      <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
-      <pubDate>Wed, 18 Nov 2026 17:45:47 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/advancing-chip-design-with-our-models/"&gt;https://openai.com/index/advancing-chip-design-with-our-models/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50549493"&gt;https://news.ycombinator.com/item?id=50549493&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 225&lt;/p&gt;
-&lt;p&gt;# Comments: 171&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Codrops] From One Drop of Blue Ink to a Complete Brand</title>
       <link>https://tympanus.net/codrops/2026/11/18/blue-ink-brand/</link>
       <guid isPermaLink="true">https://tympanus.net/codrops/2026/11/18/blue-ink-brand/</guid>
@@ -776,18 +631,6 @@
       <description>&lt;h4&gt;Mais método para projetar, menos apego às ferramentas.&lt;/h4&gt;&lt;figure&gt;&lt;img alt="Pintura de um smartphone com interface genérica dentro de um canvas de edição do Figma, emoldurada sobre fundo marfim. Abaixo, a frase: Isso não é um produto." src="https://cdn-images-1.medium.com/proxy/1*bN8W_SDH9JL-cvdiTyX2UQ.png" /&gt;&lt;figcaption&gt;Uma representação vale pelo que nos ajuda a descobrir, decidir ou melhorar. Ilustração original em referência a A traição das imagens, de René Magritte.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Outro dia, precisei apresentar um fluxo para stakeholders. Expliquei à IA o que queria e ela gerou a tela nos padrões do nosso produto. Eu tirei um print e coloquei no FigJam para apresentar o fluxo, porque eles queriam ver como a tela ficaria, não um arquivo do Figma e suas camadas. O print mostrava a interface já renderizada com os componentes do produto.&lt;/p&gt;&lt;p&gt;Esse resultado vinha da maturidade que havíamos construído no nosso design system, com componentes, templates e regras de composição. Meu trabalho de design estava nas decisões incorporadas a esses elementos, na orientação que dei à IA e na análise do que ela produziu. Para discutir aquela proposta, não precisei montar uma segunda versão da tela em um editor gráfico.&lt;/p&gt;&lt;p&gt;Com a IA, tenho visto mais designers ganhando autonomia para construir ferramentas, plugins e automações. Acho isso uma evolução, mas parte dela continua dedicada a levar componentes ao Figma e manter desenho e código sincronizados. Estamos conseguindo encurtar a distância entre uma intenção e uma interface funcional, mas usamos parte dessa capacidade para preservar a passagem pelo arquivo visual como entrega obrigatória.&lt;/p&gt;&lt;blockquote&gt;&lt;em&gt;Estamos construindo coisas novas para preservar a obrigação de entregar as antigas.&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;Sou exigente com processos, e justamente por isso quero entender o que cada etapa acrescenta. Fazer uma passagem funcionar mais rápido pode ser útil, mas ainda precisamos passar por ela?&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;A etapa que virou entrega&lt;/h3&gt;&lt;p&gt;Usar código para prototipar não começou com a IA. O que mudou foi a possibilidade de explorar esse caminho sem escrever manualmente cada parte da interface, usando os componentes do produto.&lt;/p&gt;&lt;p&gt;Parte do nosso raciocínio acontece enquanto construímos: mudamos uma hierarquia, experimentamos uma composição e percebemos algo que ainda não estava claro. Desenhos e protótipos permitem isso, assim como a interface funcional. O problema aparece quando manter o desenho como uma versão correspondente se torna uma obrigação permanente.&lt;/p&gt;&lt;p&gt;Para mim, o design system é a linguagem que design e engenharia compartilham. As bibliotecas de Figma e de código são formas de aplicá-la, cada uma com seu trabalho de criar, avaliar, documentar e disponibilizar componentes. Quando algo muda, além de evoluí-lo, precisamos atualizar as duas bibliotecas e conferir se continuam expressando a mesma decisão.&lt;/p&gt;&lt;figure&gt;&lt;img alt="Dois painéis com design e engenharia presentes. O primeiro mostra bibliotecas no Figma e em código, cada uma com atividades de criação, avaliação, disponibilização e evolução, ligadas por atualização e conferência recorrentes. O segundo reúne exploração e implementação nos mesmos componentes executáveis e regras, preservando o ciclo e as avaliações de experiência e técnica." src="https://cdn-images-1.medium.com/proxy/1*gOh7ewiQChxdUX8jBZEQIQ.png" /&gt;&lt;figcaption&gt;Duas bases podem exigir atualização e conferência das mesmas decisões. Trabalhar sobre componentes e regras compartilhados pode reduzir essa manutenção. A experimentação, a avaliação e a evolução continuam.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;A sincronização ajuda nessa manutenção, mas automatizar uma etapa pode apenas deslocar a espera para a seguinte. Por isso, me interessa rever o caminho inteiro, inclusive decidir onde a IA realmente precisa participar.&lt;/p&gt;&lt;p&gt;Já há designers e times trabalhando diretamente no código. Quero explorar propostas com os mesmos componentes executáveis e regras usados na implementação, para que design e engenharia continuem juntos sobre aquela composição. Um protótipo isolado em código também pode exigir reconstrução; o que importa é o que conseguimos aproveitar e evoluir.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Projetar a base também é fazer design&lt;/h3&gt;&lt;p&gt;Para trabalhar assim, precisamos entender mais do que a aparência dos componentes.&lt;/p&gt;&lt;p&gt;Nos meus experimentos, a semântica tem ajudado muito. Pense no objetivo: “Quero encontrar uma compra e consultar seus detalhes”. Uma busca pode localizar o registro; filtros podem restringir o período; uma lista pode apresentar os resultados. Os detalhes podem aparecer em um painel ou em uma página, conforme o contexto.&lt;/p&gt;&lt;p&gt;São possibilidades, não associações obrigatórias entre palavras e componentes. O objetivo do usuário orienta a escolha; o comando que damos à IA para montar a interface vem depois.&lt;/p&gt;&lt;figure&gt;&lt;img alt="Três momentos: objetivo do usuário, significados e possibilidades e uma composição possível. Encontrar aparece em verde e pode usar busca, filtros e lista; compra aparece em laranja e pode usar um item de movimentação; consultar detalhes aparece em roxo e pode usar ação, painel ou página. Uma interface com dados fictícios combina algumas dessas possibilidades." src="https://cdn-images-1.medium.com/proxy/1*F03pWf5Zd4yv32Bu8Ae-Zg.png" /&gt;&lt;figcaption&gt;O significado orienta possibilidades de composição. Contexto, regras e avaliação ajudam a escolher quais componentes fazem sentido.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Definir o que caracteriza uma compra, como encontrá-la e quais detalhes apresentar é projetar entidades, relações, ações e comportamentos. Incorporadas aos componentes e às regras de construção, essas decisões orientam tanto a experiência quanto o software que a sustenta.&lt;/p&gt;&lt;blockquote&gt;Para mim, design é projeto, e arquitetura também é design.&lt;/blockquote&gt;&lt;p&gt;O arquiteto de software é um designer de software, com conhecimentos técnicos próprios. O designer digital também precisa compreender os materiais com que projeta: componentes, relações, comportamentos e restrições.&lt;/p&gt;&lt;p&gt;Esse entendimento ajuda a decidir o que reutilizar, o que precisa mudar e o que torna uma solução desnecessariamente cara. As especializações têm responsabilidades diferentes, mas essas decisões exigem diálogo entre elas.&lt;/p&gt;&lt;p&gt;Também precisamos decidir o que fica aberto à exploração e o que o sistema pode restringir. Em um dos sistemas que estou construindo, um botão de ícone não aceita rótulo visual, mas precisa de um nome acessível. A documentação orienta essa escolha; a validação rejeita o rótulo proibido ou a ausência do nome.&lt;/p&gt;&lt;p&gt;Ainda cabe a quem projeta avaliar se aquele botão representa a ação adequada, se será compreendido naquele contexto e se o nome faz sentido.&lt;/p&gt;&lt;blockquote&gt;&lt;em&gt;Ter uma combinação válida resolve parte do trabalho, mas não decide se a experiência é boa.&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;Ao trabalhar com a IA, posso pedir alternativas e explicar por que uma proposta não atende ao problema. Essa crítica orienta a próxima tentativa e esclarece o que estou buscando. Se nenhuma combinação funciona, talvez seja necessário rever um padrão ou criar um componente.&lt;/p&gt;&lt;p&gt;Esse raciocínio pode começar no papel, em fluxos ou em uma conversa. Às vezes, alguns quadrados bastam para discutir conteúdo e hierarquia antes de experimentar uma composição.&lt;/p&gt;&lt;figure&gt;&lt;img alt="Estudo visual em quatro colunas: rascunho à mão de uma home bancária; resposta da IA com componentes e trecho de JSON; proposta azul-escura e verde com atalhos circulares, nomes abaixo e navegação em pílula; e proposta branca e roxa com cartões de vidro. Ambas preservam a estrutura do rascunho e usam dados fictícios." src="https://cdn-images-1.medium.com/proxy/1*0wArGZeoJwH5EisbS5CVDw.png" /&gt;&lt;figcaption&gt;Representação ilustrativa do processo: do rascunho à composição de interfaces. Dados fictícios.&lt;/figcaption&gt;&lt;/figure&gt;&lt;h3&gt;A IA pode ajudar a construir o caminho&lt;/h3&gt;&lt;p&gt;Tenho um ambiente de criação, que continuo evoluindo, em que escolho componentes, combino elementos e ajusto propriedades por controles visuais. Trabalho com os componentes executáveis da interface, sem manter uma cópia separada para depois traduzi-la.&lt;/p&gt;&lt;p&gt;Nesse ambiente, decisões conhecidas já estão incorporadas às regras de composição. Se uma propriedade aceita determinados valores ou uma composição permite certas combinações, o software aplica essas regras diretamente. &lt;strong&gt;Não preciso pedir à IA que interprete novamente uma decisão já tomada toda vez que quiser fazer uma alteração.&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;Uso a IA para construir e evoluir esse sistema e explorar alternativas. As operações já definidas ficam com o software, o que pode reduzir chamadas a modelos e correções desnecessárias. Essa economia precisa considerar o esforço de construir e manter o ambiente.&lt;/p&gt;&lt;p&gt;Quero que os componentes, seus significados e suas regras continuem úteis quando eu trocar de modelo ou ferramenta.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;O que precisamos observar funcionando&lt;/h3&gt;&lt;p&gt;Em um ajuste recente de skeleton, os blocos que aparecem enquanto o conteúdo carrega, eu queria melhorar sua aplicação em fundos coloridos ou escuros e rever o movimento. A IA já tinha os tokens e padrões do design system; expliquei os problemas e pedi que confrontasse minhas sugestões com essas regras.&lt;/p&gt;&lt;p&gt;Gerei artefatos para observar o skeleton funcionando no código e também o levei ao Figma para facilitar o acesso do time. Cada um cumpria uma função: no código, eu podia examinar o movimento; no Figma, disponibilizar o componente naquele contexto de trabalho.&lt;/p&gt;&lt;p&gt;Quando precisamos traduzir e conferir uma representação antes de observar determinado comportamento, adiamos uma oportunidade de aprendizado. Aproximar projeto e construção pode reduzir essa espera.&lt;/p&gt;&lt;blockquote&gt;&lt;em&gt;A velocidade ganha sentido quando conseguimos observar algo relevante a tempo de melhorar uma decisão.&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Começar por um fluxo, cuidar do que vem depois&lt;/h3&gt;&lt;p&gt;Esse caminho depende da maturidade do sistema e do time. Onde não há uma biblioteca de código consolidada, construí-la faz parte do esforço. Mesmo com ela, design e engenharia precisam avaliar integrações, estados e condições de uso, além de manter os componentes.&lt;/p&gt;&lt;p&gt;Eu começaria por um fluxo pequeno, com componentes conhecidos, e algo que precisamos descobrir ou decidir. Depois de explorá-lo, perguntaria:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;Conseguimos manter a composição?&lt;/li&gt;&lt;li&gt;Reaproveitamos apenas os componentes?&lt;/li&gt;&lt;li&gt;Foi necessário reconstruir o fluxo?&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Também observaria quais etapas fizeram falta. Uma tentativa ruim pode revelar uma regra mal explicada ou uma limitação da ferramenta; vale criticar e tentar novamente antes de concluir se encurtamos o caminho ou apenas deslocamos o trabalho.&lt;/p&gt;&lt;p&gt;Naquela conversa, o print no FigJam apresentou o fluxo, enquanto a interface em código permitiu explorar a proposta com os componentes do produto. Cada representação tinha uma função.&lt;/p&gt;&lt;p&gt;Quando manter uma segunda versão deixa de contribuir, podemos dedicar esse esforço à evolução da experiência. Cada entrega de design precisa justificar sua existência pelo que nos ajuda a descobrir, decidir ou melhorar.&lt;/p&gt;&lt;h4&gt;Referências&lt;/h4&gt;&lt;ul&gt;&lt;li&gt;&lt;a href="https://medium.com/u/b620689aa228"&gt;Antonio Salgado&lt;/a&gt;. &lt;a href="https://brasil.uxdesign.cc/continue-a-nadar-design-na-era-da-ia-50a7cbb98688"&gt;Continue a nadar: Design na era da IA&lt;/a&gt;. UX Collective Brasil, 2026.&lt;/li&gt;&lt;li&gt;Erika Flowers. &lt;a href="https://eflowers.substack.com/p/if-you-ask-a-designer-what-they-want"&gt;If you ask a designer what they want, they will say faster horses&lt;/a&gt;. Zero Vector, 2026.&lt;/li&gt;&lt;li&gt;Brad Frost. &lt;a href="https://atomicdesign.bradfrost.com/chapter-2/"&gt;Atomic Design, capítulo 2&lt;/a&gt;.&lt;/li&gt;&lt;li&gt;&lt;a href="https://medium.com/u/1dd0fcefd09a"&gt;Maya Brennan&lt;/a&gt;. &lt;a href="https://uxdesign.cc/how-to-become-an-ai-designer-ff8ee8aed205"&gt;How to become an AI Designer&lt;/a&gt;. UX Collective, 2026.&lt;/li&gt;&lt;li&gt;René Magritte. &lt;a href="https://collections.lacma.org/object/31931"&gt;A traição das imagens&lt;/a&gt;, 1929. Acervo do LACMA. Referência conceitual da capa.&lt;/li&gt;&lt;li&gt;&lt;a href="https://medium.com/u/ecbe889c2da9"&gt;vateo&lt;/a&gt;. &lt;a href="https://vateo.medium.com/after-waterfall-agile-and-devops-anthropics-ai-native-sdlc-playbook-0131a3a9156e"&gt;After waterfall, agile, and DevOps — Anthropic’s AI-Native SDLC playbook&lt;/a&gt;. Medium, Setembro de 2026.&lt;/li&gt;&lt;/ul&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=b2ec3d2647a3" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/menos-figma-mais-design-b2ec3d2647a3"&gt;Menos Figma, mais design&lt;/a&gt; was originally published in &lt;a href="https://brasil.uxdesign.cc"&gt;UX Collective 🇧🇷&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
       <category>Brasil</category>
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Interviewed at a YC startup, found out they used my LinkedIn without permission</title>
-      <link>https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</link>
-      <guid isPermaLink="true">https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/</guid>
-      <pubDate>Wed, 18 Nov 2026 05:11:30 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/"&gt;https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50542135"&gt;https://news.ycombinator.com/item?id=50542135&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 521&lt;/p&gt;
-&lt;p&gt;# Comments: 128&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[UX Planet] Anthropic Just Released New Rules of Claude Code</title>
@@ -881,30 +724,6 @@
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
-      <title>[Hacker News — UX (50+ pontos)] Windows 11 is collecting data on which coding agents and developer tools you use</title>
-      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
-      <guid isPermaLink="true">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
-      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"&gt;https://xusheng.dev/posts/windows-coding-agent-telemetry/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50524736"&gt;https://news.ycombinator.com/item?id=50524736&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 738&lt;/p&gt;
-&lt;p&gt;# Comments: 625&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] FBI says Artex AI open-source hacking tool used to breach networks</title>
-      <link>https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</link>
-      <guid isPermaLink="true">https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/</guid>
-      <pubDate>Mon, 16 Nov 2026 18:12:21 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/"&gt;https://techcrunch.com/2026/11/16/fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-under-three-hours/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50520796"&gt;https://news.ycombinator.com/item?id=50520796&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 51&lt;/p&gt;
-&lt;p&gt;# Comments: 15&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
-    </item>
-    <item>
       <title>[Figma Blog] How 1Password uses Figma Make to design for trust and certainty</title>
       <link>https://www.figma.com/blog/1password-figma-make/</link>
       <guid isPermaLink="true">https://www.figma.com/blog/1password-figma-make/</guid>
@@ -986,18 +805,6 @@ especially for a one-person research function?&lt;/li&gt;
 &lt;p&gt;Any help will be appreciated.&lt;/p&gt;</description>
       <category>Fóruns e debates</category>
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
-    </item>
-    <item>
-      <title>[Hacker News — UX (50+ pontos)] Italy fines Meta $887M over Android users' data access</title>
-      <link>https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</link>
-      <guid isPermaLink="true">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</guid>
-      <pubDate>Sat, 14 Nov 2026 13:48:06 GMT</pubDate>
-      <description>&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"&gt;https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50497009"&gt;https://news.ycombinator.com/item?id=50497009&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;Points: 408&lt;/p&gt;
-&lt;p&gt;# Comments: 313&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Figma Blog] AI’s role in the creative process</title>
@@ -1097,24 +904,6 @@ especially for a one-person research function?&lt;/li&gt;
       <description>Designing and building a website around sound, from one shared Web Audio engine to live meters, playable faders and a footer instrument.</description>
       <category>Publicações internacionais</category>
       <source url="https://tympanus.net/codrops/feed/">Codrops</source>
-    </item>
-    <item>
-      <title>[Smashing Magazine] Should You Actually Add AI To That? A Four-Question Audit For Product Teams</title>
-      <link>https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</link>
-      <guid isPermaLink="true">https://smashingmagazine.com/2026/11/should-you-add-ai-audit-product-teams/</guid>
-      <pubDate>Thu, 12 Nov 2026 10:00:00 GMT</pubDate>
-      <description>An AI feature can save users time on a task, only for them to spend it checking the results. This practical audit helps product teams decide where AI earns its place and what users need to verify its output.</description>
-      <category>Publicações internacionais</category>
-      <source url="https://www.smashingmagazine.com/feed/">Smashing Magazine</source>
-    </item>
-    <item>
-      <title>[IxDF — UX Daily] Sustainability Is Not Enough</title>
-      <link>https://ixdf.org/literature/article/sustainability-is-not-enough</link>
-      <guid isPermaLink="true">https://ixdf.org/literature/article/sustainability-is-not-enough</guid>
-      <pubDate>Thu, 12 Nov 2026 10:00:00 GMT</pubDate>
-      <description>Sustainable design. Sustainable fashion. Sustainable living. We often hear these terms in marketing campaigns and popular media. But what does sustainability mean and why does pioneer of User Experience Design Don Norman think that sustainability shouldn’t be our goal when we design?In this video, Don Norman: Father&amp;nbsp;of User Experience design, author of the legendary book&amp;nbsp;The Design of&amp;nbsp;Everyday Things, co-founder of the Nielsen Norman Group, and former VP of the Advanced Technology Group at Apple, emphasizes how the way we communicate is as important as what we communicate.[[video:1431]]Just as the idea of sustainability doesn't capture the magnitude of the work ahead of us, a...</description>
-      <category>Publicações internacionais</category>
-      <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
   </channel>
 </rss>
