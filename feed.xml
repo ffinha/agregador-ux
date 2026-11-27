@@ -5,7 +5,7 @@
     <link>https://ffinha.github.io/agregador-ux/feed.xml</link>
     <description>Feed agregado de publicações e fóruns de UI/UX (Brasil e internacional).</description>
     <language>pt-br</language>
-    <lastBuildDate>Thu, 26 Nov 2026 21:39:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:17:53 GMT</lastBuildDate>
     <item>
       <title>[Codrops] A Year, One Sphere, Many Shapes: Houmahani Kane’s Portfolio</title>
       <link>https://tympanus.net/codrops/2026/11/26/houmahani-kane-portfolio/</link>
@@ -84,6 +84,30 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email</title>
+      <link>https://techstackups.com/articles/google-workspace-ai-agents-mcp/</link>
+      <guid isPermaLink="true">https://techstackups.com/articles/google-workspace-ai-agents-mcp/</guid>
+      <pubDate>Thu, 26 Nov 2026 09:44:23 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://techstackups.com/articles/google-workspace-ai-agents-mcp/"&gt;https://techstackups.com/articles/google-workspace-ai-agents-mcp/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50653477"&gt;https://news.ycombinator.com/item?id=50653477&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 280&lt;/p&gt;
+&lt;p&gt;# Comments: 235&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Collection of preserved UI style guides</title>
+      <link>https://aresluna.org/ui-style-guides/</link>
+      <guid isPermaLink="true">https://aresluna.org/ui-style-guides/</guid>
+      <pubDate>Thu, 26 Nov 2026 00:40:00 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://aresluna.org/ui-style-guides/"&gt;https://aresluna.org/ui-style-guides/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50649834"&gt;https://news.ycombinator.com/item?id=50649834&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 418&lt;/p&gt;
+&lt;p&gt;# Comments: 101&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[Design Culture] O Ser Querido: O nepotismo na sétima arte em meio a um drama familiar pesado!</title>
       <link>https://designculture.com.br/o-ser-querido-o-nepotismo-na-setima-arte-em-meio-a-um-drama-familiar-pesado/</link>
       <guid isPermaLink="true">https://designculture.com.br/o-ser-querido-o-nepotismo-na-setima-arte-em-meio-a-um-drama-familiar-pesado/</guid>
@@ -127,6 +151,18 @@
       <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/2259/1*0wx4pIXe63UEeAosXQcHYA.png" width="2259" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;AI has dramatically reduced the amount of time it takes to write code. But writing code is only one part of shipping a product.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxplanet.org/claude-ship-can-ship-your-product-05c316808de5?source=rss----819cc2aaeee0---4"&gt;Continue reading on UX Planet »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxplanet.org/feed">UX Planet</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Investigating degraded experiences across GitHub products</title>
+      <link>https://www.githubstatus.com/incidents/qn8mfv6q5hlx</link>
+      <guid isPermaLink="true">https://www.githubstatus.com/incidents/qn8mfv6q5hlx</guid>
+      <pubDate>Wed, 25 Nov 2026 15:59:23 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.githubstatus.com/incidents/qn8mfv6q5hlx"&gt;https://www.githubstatus.com/incidents/qn8mfv6q5hlx&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50643720"&gt;https://news.ycombinator.com/item?id=50643720&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 186&lt;/p&gt;
+&lt;p&gt;# Comments: 104&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Codrops] Brice Deguigne ’26: A Three.js and WebGPU 3D Portfolio Built Like a Simulation</title>
@@ -206,6 +242,18 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Smart people who give a shit use tools</title>
+      <link>https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</link>
+      <guid isPermaLink="true">https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools</guid>
+      <pubDate>Wed, 25 Nov 2026 07:46:43 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools"&gt;https://www.iankduncan.com/engineering/2026-11-19-smart-people-who-give-a-shit-use-tools&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50639698"&gt;https://news.ycombinator.com/item?id=50639698&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 377&lt;/p&gt;
+&lt;p&gt;# Comments: 296&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[UX Collective] Futures thinking as an everyday design practice</title>
       <link>https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4</link>
       <guid isPermaLink="true">https://uxdesign.cc/futures-thinking-as-an-everyday-design-practice-465146ee6db8?source=rss----138adf9c44c---4</guid>
@@ -267,6 +315,18 @@
       <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/1920/1*yrKkLri02dOVZkMwF1iI4g.jpeg" width="1920" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;Why reflective thinking in and on design action, not faster execution, is our real edge in the age of AI.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxdesign.cc/beyond-the-pixel-reclaiming-design-as-a-reflective-practice-6f6789acb2bd?source=rss----138adf9c44c---4"&gt;Continue reading on UX Collective »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxdesign.cc/feed">UX Collective</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] GPT-6 models demonstrate intrinsic protein-design capabilities</title>
+      <link>https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</link>
+      <guid isPermaLink="true">https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/</guid>
+      <pubDate>Tue, 24 Nov 2026 21:02:22 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"&gt;https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50634658"&gt;https://news.ycombinator.com/item?id=50634658&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 356&lt;/p&gt;
+&lt;p&gt;# Comments: 97&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Lobsters — tag design] metro: The Documentary on Microsoft's Boldest Design</title>
@@ -355,6 +415,30 @@
       <source url="https://sidebar.io/feed.xml">Sidebar (curadoria diária)</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Declare is a UI language for you and your AI</title>
+      <link>https://davidtemkin.github.io/declarelang/</link>
+      <guid isPermaLink="true">https://davidtemkin.github.io/declarelang/</guid>
+      <pubDate>Tue, 24 Nov 2026 02:36:56 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://davidtemkin.github.io/declarelang/"&gt;https://davidtemkin.github.io/declarelang/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50622854"&gt;https://news.ycombinator.com/item?id=50622854&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 122&lt;/p&gt;
+&lt;p&gt;# Comments: 97&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Alcohol use reduces efficacy of immunotherapy by disrupting antitumor immunity</title>
+      <link>https://www.science.org/doi/10.1126/scisignal.aef1375</link>
+      <guid isPermaLink="true">https://www.science.org/doi/10.1126/scisignal.aef1375</guid>
+      <pubDate>Tue, 24 Nov 2026 00:53:46 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.science.org/doi/10.1126/scisignal.aef1375"&gt;https://www.science.org/doi/10.1126/scisignal.aef1375&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50621977"&gt;https://news.ycombinator.com/item?id=50621977&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 108&lt;/p&gt;
+&lt;p&gt;# Comments: 81&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[UX Planet] Fable 5.2 as Claude AI Model Advisor</title>
       <link>https://uxplanet.org/fable-5-2-as-claude-ai-model-advisor-d0d342a19db3?source=rss----819cc2aaeee0---4</link>
       <guid isPermaLink="true">https://uxplanet.org/fable-5-2-as-claude-ai-model-advisor-d0d342a19db3?source=rss----819cc2aaeee0---4</guid>
@@ -389,6 +473,18 @@
       <description>&lt;div class="medium-feed-item"&gt;&lt;p class="medium-feed-image"&gt;&lt;a href="https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4"&gt;&lt;img src="https://cdn-images-1.medium.com/max/1802/1*V_YIl-fH__lWR8Jo4Q0bHA.png" width="1802" /&gt;&lt;/a&gt;&lt;/p&gt;&lt;p class="medium-feed-snippet"&gt;Anthropic recently added a major set of new features to Claude Code that change how it works.&lt;/p&gt;&lt;p class="medium-feed-link"&gt;&lt;a href="https://uxplanet.org/anthropic-just-dropped-4-massive-claude-features-f79b130118f4?source=rss----819cc2aaeee0---4"&gt;Continue reading on UX Planet »&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description>
       <category>Publicações internacionais</category>
       <source url="https://uxplanet.org/feed">UX Planet</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] An Italian folding bicycle design that fits into a suitcase</title>
+      <link>https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase</link>
+      <guid isPermaLink="true">https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase</guid>
+      <pubDate>Mon, 23 Nov 2026 12:40:08 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase"&gt;https://www.core77.com/posts/145766/An-Italian-Folding-Bicycle-Design-that-Fits-Into-a-Suitcase&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50610820"&gt;https://news.ycombinator.com/item?id=50610820&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 219&lt;/p&gt;
+&lt;p&gt;# Comments: 171&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Codrops] Black Friday 2026: 10 Deals for Web Designers and Front-End Developers</title>
@@ -498,6 +594,19 @@
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Ask HN: I have been unemployed for 2y. 15 years of experience, US. What to do?</title>
+      <link>https://news.ycombinator.com/item?id=50583761</link>
+      <guid isPermaLink="true">https://news.ycombinator.com/item?id=50583761</guid>
+      <pubDate>Fri, 20 Nov 2026 23:18:32 GMT</pubDate>
+      <description>&lt;p&gt;I'm Senior software engineer in the US (DMV area), with 15y of experience. Worked for Fortune 50+ company and bunch of mid-size companies. Been unemployed for 2y and can't find a job, within those 2 years, I pretty much spent my savings that I've saved through years, maybe have 4-5 months left to support my household. Currently, I tutor math and probably about to start working as manager in pizzaria.&lt;p&gt;In Jan 2025, I quit from a mid-size insurance tech company(1000+) after working there for almost 4y, because I was tipped off the they were about to start layoffs and they did. Well, since then I have zero luck finding any job in SWE.&lt;p&gt;At this point, I have massive gap in my resume that I can't explain to recruiters, I can still code (C#/.NET/AWS) and learned the AI, but who cares if date of my last employment is Jan2025. What should I do ?&lt;p&gt;If you have an alternative path (something completely different from SWE or SWE adjacent) that pays "well", I would like to hear.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50583761"&gt;https://news.ycombinator.com/item?id=50583761&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 754&lt;/p&gt;
+&lt;p&gt;# Comments: 867&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[Figma Blog] Workflow lab: Turning context into a plan with Specs and the Figma agent</title>
       <link>https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</link>
       <guid isPermaLink="true">https://www.figma.com/blog/workflow-lab-specs-and-the-figma-agent/</guid>
@@ -505,6 +614,18 @@
       <description>Bringing scattered context onto the canvas helps teams connect the diagrams, designs, and technical decisions they need to build, all in one place. This workflow shows how Specs and the Figma agent provide a container for that context so implementation is easy.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Leaky AI supply chain is exposing secret user data at an alarming rate</title>
+      <link>https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</link>
+      <guid isPermaLink="true">https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/</guid>
+      <pubDate>Fri, 20 Nov 2026 21:53:39 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/"&gt;https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50582794"&gt;https://news.ycombinator.com/item?id=50582794&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 71&lt;/p&gt;
+&lt;p&gt;# Comments: 8&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Nielsen Norman Group] Qualitative User-Research Methods: An Overview</title>
@@ -550,6 +671,18 @@
       <description>&lt;h4&gt;Curadoria semanal para designers — que pensam e criam.&lt;/h4&gt;&lt;figure&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*ozV7ymQi-pqM3GOJ.png" /&gt;&lt;/figure&gt;&lt;p&gt;“A IA não precisa fazer um trabalho tão bom quanto o de designers experientes. Basta entregar algo que a empresa considere bom o suficiente.&lt;/p&gt;&lt;p&gt;E quem define isso, na maioria das vezes, não é o designer.&lt;/p&gt;&lt;p&gt;O design me proporcionou oportunidades incríveis, experiências que levo para a vida e, principalmente, o privilégio de conhecer e trabalhar com pessoas extraordinárias. Encontrei nessa comunidade um sentimento de pertencimento que continua sendo muito importante para mim. Talvez justamente por isso seja tão difícil admitir que estou preocupado com o futuro do UX Design como conhecemos.”&lt;/p&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/estou-preocupado-com-o-futuro-do-ux-design-ac3a65ae639a"&gt;&lt;strong&gt;Estou preocupado com o futuro do UX Design&lt;/strong&gt;&lt;/a&gt; — &lt;a href="https://medium.com/u/e2282853f3c3"&gt;&lt;em&gt;Pedro Belleza&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;figure&gt;&lt;a href="https://dub.sh/4CaOovN"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*AiAfwp3bC3T6W9aY.gif" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://dub.sh/4CaOovN"&gt;&lt;strong&gt;Pense e crie sistemas de design para além das ferramentas&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;br /&gt;&lt;/strong&gt;No curso Projetando Sistemas de Design, da Aprender Design, você aprende a estruturar sistemas que promovem consistência, colaboração e escalabilidade em produtos digitais. Com aulas online e ao vivo, o curso explora desde fundamentos como design tokens e componentes até processos de documentação, contribuição e manutenção de sistemas em diferentes contextos organizacionais. Aprenda com &lt;a href="https://medium.com/u/c203ef8dd9ba"&gt;Tuxu&lt;/a&gt;, especialista em Design de Produto no Banco Itaú. A próxima turma começa em breve, &lt;a href="https://dub.sh/4CaOovN"&gt;conheça o curso e inscreva-se&lt;/a&gt;.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Seleção&lt;/h3&gt;&lt;blockquote&gt;&lt;a href="https://brasil.uxdesign.cc/quem-sou-eu-como-designer-53d68a08d143"&gt;&lt;strong&gt;&lt;em&gt;O que muda quando deixamos de ser júnior?&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;em&gt; — &lt;/em&gt;&lt;a href="https://medium.com/u/1ee9f41c6610"&gt;Lídia Cavalcante&lt;/a&gt;&lt;em&gt;&lt;br /&gt;Sobre identidade, amadurecimento, mundo corporativo e a tentativa de não me levar tão a sério (quando tudo parece exigir o contrário).&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;em&gt;­&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;a href="https://brasil.uxdesign.cc/os-backrooms-do-design-system-d84af381d801"&gt;&lt;strong&gt;&lt;em&gt;Os Backrooms do Design System&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;em&gt; — &lt;/em&gt;&lt;a href="https://medium.com/u/42a2ccff0c3c"&gt;Gabriela Masini&lt;/a&gt;&lt;em&gt;&lt;br /&gt;Os espaços liminares do trabalho de design em ambientes complexos.&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;­&lt;/p&gt;&lt;p&gt;&lt;em&gt;O UX Collective é uma publicação de design independente que eleva vozes de design não ouvidas e ajuda designers a pensarem de forma mais crítica sobre seu trabalho.&lt;/em&gt;&lt;/p&gt;&lt;p&gt;&lt;a href="https://brasiluxdesign.substack.com/subscribe"&gt;&lt;strong&gt;&lt;em&gt;Assine agora&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;em&gt; ­ →&lt;/em&gt;&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;figure&gt;&lt;a href="https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7"&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*tO8d_O0T14m1E3ys.png" /&gt;&lt;/a&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://uxdesign.cc/why-are-we-cloning-photoshop-52e6e165eef7"&gt;&lt;strong&gt;Por que estamos clonando o Photoshop?&lt;/strong&gt;&lt;/a&gt; — &lt;a href="https://medium.com/u/60e82d3ee2f"&gt;&lt;em&gt;Heenesh Patel&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Pérolas&lt;/h3&gt;&lt;blockquote&gt;&lt;a href="https://mattstromawn.com/writing/design-is-a-search-problem?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;&lt;strong&gt;&lt;em&gt;Design é um problema de busca&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;em&gt; — &lt;/em&gt;&lt;a href="https://mattstromawn.com?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;Matt Ström-Awn&lt;/a&gt;&lt;em&gt;&lt;br /&gt;Sobre explorações, caminhos, alternativas e decisões.&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;em&gt;­&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;a href="https://naoacrediteemferramentasmilagrosas.com?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;&lt;strong&gt;&lt;em&gt;Não acredite em ferramentas milagrosas&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;— &lt;/em&gt;&lt;a href="https://tudoeacessibilidade.com.br?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;Tudo é Acessibilidade&lt;/a&gt;&lt;em&gt;&lt;br /&gt;“O uso de ferramentas para cobrir lacunas de acessibilidade causa uma falsa sensação de atendimento, mas a experiência real continua comprometida.”&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;em&gt;­&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;a href="https://shawnsmucker.substack.com/p/please-use-ai?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;&lt;strong&gt;&lt;em&gt;Por favor, use IA&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt; &lt;/em&gt;&lt;/strong&gt;&lt;em&gt;— &lt;/em&gt;Shawn Smucker&lt;em&gt;&lt;br /&gt;Argumentos perfeito para você usar IA (ou não).&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;­&lt;/p&gt;&lt;figure&gt;&lt;img alt="" src="https://cdn-images-1.medium.com/max/1024/0*DE8-zeSB2lufMeXi.gif" /&gt;&lt;/figure&gt;&lt;p&gt;&lt;a href="https://uxdesign.cc/before-you-ship-your-wrapped-this-year-a0a47ee191f8?sk=v2%2F1c47b784-e681-4dfb-b6e2-46ab1fa121ec"&gt;&lt;strong&gt;Antes de lançar sua retrospectiva esse ano&lt;/strong&gt;&lt;/a&gt; — &lt;a href="https://medium.com/u/619d88e4a27"&gt;&lt;em&gt;Wira Indra Kusuma&lt;/em&gt;&lt;/a&gt;&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Recursos&lt;/h3&gt;&lt;blockquote&gt;&lt;a href="https://doory.art?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;&lt;strong&gt;&lt;em&gt;Doory&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; Um Canva gratuito e cheio de recursos interessantes.&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;a href="https://guidebookgallery.org/articles/lisauserinterfacestandards?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;&lt;strong&gt;&lt;em&gt;Lisa UI standards&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; Padrões de 1980 para o uso da Lisa, computador da Apple.&lt;/em&gt;&lt;/blockquote&gt;&lt;blockquote&gt;&lt;a href="https://salariotransparente.com.br/salarios?utm_source=ux-collective-brasil&amp;amp;utm_medium=newsletter"&gt;&lt;strong&gt;&lt;em&gt;Salário Transparente&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;strong&gt;&lt;em&gt;.&lt;/em&gt;&lt;/strong&gt;&lt;em&gt; Descubra (sem login) salários de empresas e cargos.&lt;/em&gt;&lt;/blockquote&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;Apoie&lt;/h3&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/como-publicar-no-ux-collective-6ff77551a60f"&gt;Escreva um artigo&lt;/a&gt; (você pode aparecer aqui) ou &lt;a href="https://uxdesigncc.medium.com/patrocine-o-ux-collective-23004ca0fb99"&gt;patrocine&lt;/a&gt; uma edição.&lt;/p&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=48279d3d23e3" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/sobre-o-futuro-do-ux-design-deixar-de-ser-junior-e-backrooms-do-design-system-48279d3d23e3"&gt;Sobre o futuro do UX Design, deixar de ser júnior, e Backrooms do Design System&lt;/a&gt; was originally published in &lt;a href="https://brasil.uxdesign.cc"&gt;UX Collective 🇧🇷&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
       <category>Brasil</category>
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] GIMP now has UI tests</title>
+      <link>https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</link>
+      <guid isPermaLink="true">https://www.gimp.org/news/2026/11/16/gimp-ui-tests/</guid>
+      <pubDate>Fri, 20 Nov 2026 04:00:24 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.gimp.org/news/2026/11/16/gimp-ui-tests/"&gt;https://www.gimp.org/news/2026/11/16/gimp-ui-tests/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50569985"&gt;https://news.ycombinator.com/item?id=50569985&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 162&lt;/p&gt;
+&lt;p&gt;# Comments: 141&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Nielsen Norman Group] UX Conference March Announced (Mar 1 - Mar 4)</title>
@@ -613,6 +746,18 @@
       <description>From internet ephemera and fashion to found images, objects, and cultural oddities, Chase explores how the things around us can be pulled apart, recontextualized, and turned into something new.</description>
       <category>Publicações internacionais</category>
       <source url="https://www.figma.com/blog/feed/atom.xml">Figma Blog</source>
+    </item>
+    <item>
+      <title>[Hacker News — UX (50+ pontos)] Advancing chip design with OpenAI models</title>
+      <link>https://openai.com/index/advancing-chip-design-with-our-models/</link>
+      <guid isPermaLink="true">https://openai.com/index/advancing-chip-design-with-our-models/</guid>
+      <pubDate>Wed, 18 Nov 2026 17:45:47 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://openai.com/index/advancing-chip-design-with-our-models/"&gt;https://openai.com/index/advancing-chip-design-with-our-models/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50549493"&gt;https://news.ycombinator.com/item?id=50549493&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 225&lt;/p&gt;
+&lt;p&gt;# Comments: 171&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
     </item>
     <item>
       <title>[Codrops] From One Drop of Blue Ink to a Complete Brand</title>
@@ -733,6 +878,18 @@
       <source url="https://ixdf.org/rss/site_news.xml">IxDF — UX Daily</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Windows 11 is collecting data on which coding agents and developer tools you use</title>
+      <link>https://xusheng.dev/posts/windows-coding-agent-telemetry/</link>
+      <guid isPermaLink="true">https://xusheng.dev/posts/windows-coding-agent-telemetry/</guid>
+      <pubDate>Mon, 16 Nov 2026 22:58:20 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://xusheng.dev/posts/windows-coding-agent-telemetry/"&gt;https://xusheng.dev/posts/windows-coding-agent-telemetry/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50524736"&gt;https://news.ycombinator.com/item?id=50524736&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 738&lt;/p&gt;
+&lt;p&gt;# Comments: 626&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[Figma Blog] How 1Password uses Figma Make to design for trust and certainty</title>
       <link>https://www.figma.com/blog/1password-figma-make/</link>
       <guid isPermaLink="true">https://www.figma.com/blog/1password-figma-make/</guid>
@@ -816,6 +973,18 @@ especially for a one-person research function?&lt;/li&gt;
       <source url="https://ux.stackexchange.com/feeds">UX Stack Exchange</source>
     </item>
     <item>
+      <title>[Hacker News — UX (50+ pontos)] Italy fines Meta $887M over Android users' data access</title>
+      <link>https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</link>
+      <guid isPermaLink="true">https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/</guid>
+      <pubDate>Sat, 14 Nov 2026 13:48:06 GMT</pubDate>
+      <description>&lt;p&gt;Article URL: &lt;a href="https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/"&gt;https://www.reuters.com/world/italy-fines-meta-887-million-over-android-users-data-access-2026-11-14/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Comments URL: &lt;a href="https://news.ycombinator.com/item?id=50497009"&gt;https://news.ycombinator.com/item?id=50497009&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Points: 408&lt;/p&gt;
+&lt;p&gt;# Comments: 313&lt;/p&gt;</description>
+      <category>Fóruns e debates</category>
+      <source url="https://hnrss.org/newest?q=UX+OR+%22user+experience%22+OR+%22UI+design%22&amp;points=50">Hacker News — UX (50+ pontos)</source>
+    </item>
+    <item>
       <title>[Figma Blog] AI’s role in the creative process</title>
       <link>https://www.figma.com/blog/ai-role-in-the-creative-process/</link>
       <guid isPermaLink="true">https://www.figma.com/blog/ai-role-in-the-creative-process/</guid>
@@ -886,15 +1055,6 @@ especially for a one-person research function?&lt;/li&gt;
       <description>&lt;h4&gt;&lt;em&gt;Os espaços liminares do trabalho de design em ambientes complexos.&lt;/em&gt;&lt;/h4&gt;&lt;figure&gt;&lt;img alt="Ambiente interno vazio, com paredes e colunas revestidas de papel de parede bege amarelado, carpete da mesma tonalidade e teto rebaixado com diversas luminárias fluorescentes quadradas. O espaço se estende por corredores e divisões sem portas ou janelas visíveis, criando uma sensação de repetição e desorientação." src="https://cdn-images-1.medium.com/max/1024/1*P7CN0k4Gl9gxxsIlVdZj3w.jpeg" /&gt;&lt;figcaption&gt;Imagem: cena de Backrooms (2026), dirigido por Kane Parsons. © A24.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Existe uma sensação particularmente desconfortável em estar em um lugar que parece familiar, mas que provoca uma sensação de estranhamento. Igual uma paralisia do sono: tudo parece estar no lugar, mas alguma coisa está errada e você não sabe exatamente o que é…&lt;/p&gt;&lt;p&gt;Depois de assistir ao filme &lt;em&gt;Backrooms: um não lugar&lt;/em&gt;, percebi que tem algo parecido no trabalho de design em ambientes complexos.&lt;/p&gt;&lt;p&gt;Quero explorar a realidade de profissionais que atuam nesse espaço: como são as adaptações, os improvisos e as decisões que surgem quando nenhum dos sistemas de design existentes oferecem uma resposta completa? Mais do que apontar inconsistências, a intenção é refletir sobre como lidamos com elas e reconhecer esse trabalho como parte importante do design.&lt;/p&gt;&lt;p&gt;Aqui estou falando de ferramentas que não pertencem inteiramente a um sistema de design ou outro, mas existem com interdependência (como uma plataforma integrada dentro da outra, tendo cada uma origem diferente). E ainda temos uma terceira personagem nessa história: a personalização de sistemas de design preestabelecidos.&lt;/p&gt;&lt;p&gt;Para fazer uma alteração simples existem regras, limitações técnicas, contratos, integrações e decisões tomadas &lt;em&gt;antes&lt;/em&gt; mesmo de designers chegarem ali. É nesse espaço entre uma coisa e outra que boa parte do trabalho de design acontece nesses ambientes.&lt;/p&gt;&lt;p&gt;Ao trabalhar integrando ferramentas, plataformas e fornecedores, o desafio não é apenas desenhar uma boa interface. É fazer com que coisas que nasceram separadas consigam parecer parte do mesmo ecossistema.&lt;/p&gt;&lt;p&gt;Assim que saí do cinema, o conceito de &lt;em&gt;não-design system&lt;/em&gt; me veio à mente.&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Um não-design system é um conjunto de decisões que nasceu de dois DS que precisam caminhar juntos.&lt;/strong&gt;&lt;/p&gt;&lt;blockquote&gt;Se temos mais de um DS para organizar a experiência, o que acontece quando projetamos em situações nas quais nenhum dos sistemas existentes consegue responder completamente?&lt;/blockquote&gt;&lt;figure&gt;&lt;img alt="Ilustração de uma mulher com expressão assustada, diante de um fundo amarelo, representando a designer. Ao redor dela, os textos “design system 1” e “design system 2” aparecem nas laterais, enquanto “personalização” está no topo, simbolizando a tensão entre dois sistemas de design e as adaptações necessárias para fazê-los coexistir." src="https://cdn-images-1.medium.com/max/738/1*24FAAAJWSkjTyoMlmVlqiQ.png" /&gt;&lt;figcaption&gt;Imagem: cena de Backrooms (2026), dirigido por Kane Parsons. © A24. Imagem editada pela autora.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Organizei a (não) solução em 3 momentos:&lt;/p&gt;&lt;h4&gt;&lt;strong&gt;1. Convivência: dois sistemas que ocupam o mesmo espaço&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;Os sistemas têm suas próprias linguagens, componentes, padrões e comportamentos que precisam funcionar dentro de uma mesma experiência.&lt;/p&gt;&lt;p&gt;O problema é que eles não nasceram necessariamente para conversar entre si.&lt;br /&gt;­&lt;/p&gt;&lt;h4&gt;&lt;strong&gt;2. Adaptação: quando um sistema precisa falar o idioma do outro&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;Designers podem adaptar componentes, comportamentos e padrões para criar uma experiência mais coerente.&lt;/p&gt;&lt;p&gt;Mas adaptar nem sempre significa preservar. Para aproximar visualmente dois sistemas é preciso abrir mão de características originais.&lt;br /&gt;­&lt;/p&gt;&lt;h4&gt;&lt;strong&gt;3. Improvisação: quando nenhum dos sistemas tem a resposta&lt;/strong&gt;&lt;/h4&gt;&lt;p&gt;Não existe componente documentado, padrão estabelecido ou solução pronta. É preciso criar algo que funcione dentro daquele contexto, considerando as limitações existentes.&lt;/p&gt;&lt;p&gt;E assim o nosso não-design system ganha vida. Para quem assistiu ao filme, podemos apelidá-lo de &lt;em&gt;Captain Clark&lt;/em&gt; dos design systems.&lt;/p&gt;&lt;p&gt;­&lt;/p&gt;&lt;h3&gt;&lt;strong&gt;Mas o que isso significa?&lt;/strong&gt;&lt;/h3&gt;&lt;p&gt;Significa que existe uma diferença entre a &lt;strong&gt;percepção de designers&lt;/strong&gt; e a &lt;strong&gt;percepção do usuário&lt;/strong&gt;.&lt;/p&gt;&lt;p&gt;Designers conhecem os sistemas de origem, sabem quais componentes foram adaptados, improvisados, como aconteceu a conversa entre tecnologia e negócio e quais foram os trade-offs.&lt;/p&gt;&lt;blockquote&gt;Designers enxergam as costuras, mas o usuário sente os efeitos pela superfície mesmo sem saber explicar o que está fora do lugar.&lt;/blockquote&gt;&lt;p&gt;Não sabe que dois componentes vieram de desenvolvimentos diferentes, mas percebe quando o mesmo tipo de ação funciona de maneiras diferentes em diferentes pontos da jornada.&lt;/p&gt;&lt;p&gt;Tudo parece meio familiar, mas não exatamente. Quase que um vale da estranheza do meio digital.&lt;/p&gt;&lt;figure&gt;&lt;img alt="Homem caminha por um amplo ambiente vazio com paredes e carpete amarelos, iluminado por lâmpadas fluorescentes. À sua frente, há uma grande pilha desordenada de móveis, cadeiras, poltronas, mesas e objetos empilhados, contrastando com o espaço amplo e repetitivo ao redor." src="https://cdn-images-1.medium.com/max/1024/1*2MUl_n60XU58gY0M1XJzzQ.png" /&gt;&lt;figcaption&gt;Imagem: cena de Backrooms (2026), dirigido por Kane Parsons. © A24.&lt;/figcaption&gt;&lt;/figure&gt;&lt;p&gt;Será que o objetivo de designers nesses ambientes deve ser eliminar todas essas inconsistências ou aprender a conviver com elas, escolhendo conscientemente quais concessões são aceitáveis e garantem a melhor experiência dentro do que é possível?&lt;/p&gt;&lt;p&gt;A realidade é que existem muitos designers de produto trabalhando em ambientes complexos com mais zonas cinzentas do que os livros, cursos, influenciadores e cases costumam falar sobre.&lt;/p&gt;&lt;blockquote&gt;Quanto mais complexo o ambiente, designers desenham menos telas e mais &lt;em&gt;acordos&lt;/em&gt; entre sistemas e áreas.&lt;/blockquote&gt;&lt;p&gt;O verdadeiro trabalho desse tipo de designer aparece quando não existe uma regra clara e sim quando ele chega para ajudar a resolver um ambiente sem uma resposta pronta.&lt;/p&gt;&lt;p&gt;E você? Já trabalhou em um cenário em que múltiplos design systems precisavam entrar em cena juntos? Como lidou com as adaptações, improvisos e concessões necessárias para fazer tudo funcionar?&lt;/p&gt;&lt;img alt="" height="1" src="https://medium.com/_/stat?event=post.clientViewed&amp;amp;referrerSource=full_rss&amp;amp;postId=d84af381d801" width="1" /&gt;&lt;hr /&gt;&lt;p&gt;&lt;a href="https://brasil.uxdesign.cc/os-backrooms-do-design-system-d84af381d801"&gt;Os Backrooms do Design System&lt;/a&gt; was originally published in &lt;a href="https://brasil.uxdesign.cc"&gt;UX Collective 🇧🇷&lt;/a&gt; on Medium, where people are continuing the conversation by highlighting and responding to this story.&lt;/p&gt;</description>
       <category>Brasil</category>
       <source url="https://brasil.uxdesign.cc/feed">UX Collective 🇧🇷 (artigos)</source>
-    </item>
-    <item>
-      <title>[Lobsters — tag design] I’m not descending into madness because mount and unmount icons make no sense</title>
-      <link>https://www.osnews.com/story/146312/im-not-descending-into-madness-because-mount-and-unmount-icons-make-no-sense/</link>
-      <guid isPermaLink="true">https://www.osnews.com/story/146312/im-not-descending-into-madness-because-mount-and-unmount-icons-make-no-sense/</guid>
-      <pubDate>Fri, 13 Nov 2026 02:51:18 GMT</pubDate>
-      <description>&lt;p&gt;&lt;a href="https://lobste.rs/s/fbsrym/i_m_not_descending_into_madness_because"&gt;Comments&lt;/a&gt;&lt;/p&gt;</description>
-      <category>Fóruns e debates</category>
-      <source url="https://lobste.rs/t/design.rss">Lobsters — tag design</source>
     </item>
   </channel>
 </rss>
